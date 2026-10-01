@@ -1,0 +1,64 @@
+{
+ "shipped": [
+  {
+   "id": "flotte1394",
+   "datei": "flotte1394",
+   "side": "hanse",
+   "zk": "Flotte 1394",
+   "kurz": "Der Flottenbeschluss von Lübeck (3. März 1394)",
+   "warum": "Der Hansetag beschließt, die See vor den Seeräubern zu befrieden: Koggen und Bewaffnete jeder Stadt, ein Geleitzug zu Pfingsten durch den Øresund, ein Pfundgeld auf die Ladung, und Mecklenburgs Versprechen, die Häfen zu sperren. Mittelniederdeutsch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
+  }
+ ],
+ "planned": [
+  {
+   "id": "lindholm",
+   "side": "kronen",
+   "kurz": "Lindholm 1395 und Stockholm als Pfand",
+   "warum": "Der Frieden zwischen Margarete und Albrecht von Mecklenburg; Stockholm wird den Städten verpfändet. Wer jetzt noch kapert, ist Seeräuber.",
+   "quelle": "Hanserecesse I.4, Nr. 261–274, 284–288, S. 248–285."
+  },
+  {
+   "id": "luebeck1395",
+   "side": "hanse",
+   "kurz": "Der Lübecker Hansetag vom September 1395, mit Detmar",
+   "warum": "Was die Städte nach dem Frieden beschließen, und wie der Lübecker Chronist die Friedeschiffe beschreibt.",
+   "quelle": "Hanserecesse I.4, Nr. 308, S. 303; Chroniken der deutschen Städte 26 (1899), S. 66."
+  },
+  {
+   "id": "gotland",
+   "side": "orden",
+   "kurz": "Gotland 1398",
+   "warum": "Der Deutsche Orden vertreibt die Vitalienbrüder aus Visby; Rezess und drei Chroniken nebeneinander.",
+   "quelle": "Hanserecesse I.4, Nr. 437–441, S. 414–439; Scriptores rerum Prussicarum III, S. 216–218."
+  },
+  {
+   "id": "pfundgeld",
+   "side": "hanse",
+   "kurz": "Friedeschiffe und Pfundgeld",
+   "warum": "Wie der Rat den Seekrieg bezahlt: Beschlüsse und die Abrechnung des Pfundgelds.",
+   "quelle": "Hanserecesse I.4, Nr. 513, 525, 536, 656 (S. 591)."
+  },
+  {
+   "id": "emden",
+   "side": "hanse",
+   "kurz": "Emden 1400",
+   "warum": "Der Bericht der Hauptleute über den Zug nach Ostfriesland.",
+   "quelle": "Hanserecesse I.4, Nr. 591, 598, 602 (S. 538–550)."
+  },
+  {
+   "id": "holland",
+   "side": "vitalien",
+   "kurz": "Der Vertrag Hollands mit Störtebeker (August 1400)",
+   "warum": "Herzog Albrecht von Holland schließt einen Vertrag mit ‚Johan Stortebeker‘ und anderen: der urkundliche Störtebeker.",
+   "quelle": "Hanserecesse I.4, Nr. 605, S. 552."
+  },
+  {
+   "id": "helgoland",
+   "side": "rezeption",
+   "kurz": "Helgoland und die Hinrichtungen 1400/01",
+   "warum": "Der Fang bei Helgoland und die Enthauptungen in Hamburg, in der Chronik und in den Kämmereirechnungen.",
+   "quelle": "Chroniken der deutschen Städte 28 (Rufus § 1150); Lappenberg, Hamburgische Chroniken (1861), S. 402; Kämmereirechnungen der Stadt Hamburg I–II."
+  }
+ ],
+ "missing": []
+}

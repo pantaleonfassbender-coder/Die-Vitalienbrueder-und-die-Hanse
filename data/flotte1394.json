@@ -1,0 +1,150 @@
+{
+ "id": "flotte1394",
+ "titel": "Der Flottenbeschluss von Lübeck (3. März 1394)",
+ "autor": "Die Ratssendeboten der Hansestädte, versammelt in Lübeck",
+ "jahr": "1394",
+ "sprache": "de",
+ "orig_sprache": "gml",
+ "pg_label": "HR I.4 S.",
+ "quelle": "Hanserecesse. Die Recesse und andere Akten der Hansetage von 1256–1430, Bd. 4, bearb. von Karl Koppmann (Leipzig 1877), Nr. 192, S. 165–172 (Internet Archive: hanserecesse12roppgoog). Übersetzung: eigene Arbeitsübersetzung.",
+ "hinweis": "Der Rezess, das Protokoll der Beschlüsse, des Hansetags zu Lübeck vom 3. März 1394, gedruckt nach der Hamburger Handschrift mit den Lesarten von fünf weiteren (Ledreborg, Stralsund, Danzig, Thorn, Wismar). Die Eingangsformel ist lateinisch, die Beschlüsse sind mittelniederdeutsch. Abgedruckt sind die Paragraphen über Mecklenburg (4), die Flotte (6), das Pfundgeld (9) und den Geleitzug (20–21), in Auszügen; Auslassungen sind mit [...] bezeichnet. Ein Teil von Paragraph 4 steht auf einer Seite, die im Scan am rechten Rand beschnitten ist, und ist deshalb nicht aufgenommen. Koppmanns Schreibung (ů, o̊, ø) und seine runden Klammern für Ergänzungen aus anderen Handschriften sind beibehalten.",
+ "sections": [
+  {
+   "id": "tag",
+   "titel": "Der Tag und Mecklenburg",
+   "zk": "Flotte 1394 Tag",
+   "blurb": "Wer in Lübeck tagte, was Herzog Johann von Mecklenburg mit Rostock und Wismar verlangte, und was er versprach: seine Häfen für die zu sperren, die Kaufleute schädigen.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Wer in Lübeck tagte",
+     "pg": "166",
+     "lang": "la",
+     "orig": "Anno Domino 1394 in carnisprivio in civitate Lubicensi ad placita congregati domini nuncii consulares civitatum infrascriptarum, videlicet: de Hamborch Kerstianus Miles et Marquardus Schreye; de Stralessundis Gregorius Zwerting et Arnoldus de Zost; de Gripeswaldis Arnoldus L(e)zenitze et Laurencius Bo̊kholt; [...] de Prutzia: Hinricus Hetvelt de Thorn et de Elbingo Johannes de Herverd; de Mari meridiano: de Campen Johannes Schylder et Wyghardus Schursak; [...] de Lubeke domini Gherardus de Atendorn, Hinricus Westhoff, Johannes Pertzevale, Thomas Můrkerke, Johannes Nyebuer, Bruno Warendorp, Hinricus de Hachede, Bertoldus Kerkryng et Hermannus Darsow pertractaverunt hec negocia infrascripta.",
+     "en": "Im Jahr des Herrn 1394, zu Fastnacht, haben in der Stadt Lübeck die zum Tag versammelten Herren Ratssendeboten der unten genannten Städte, nämlich: von Hamburg Kerstian Miles und Marquard Schreye; von Stralsund Gregor Zwerting und Arnold von Soest; von Greifswald Arnold Lezenitze und Laurenz Bokholt; [...] aus Preußen Heinrich Hetvelt von Thorn und von Elbing Johann von Herverd; von der Zuidersee: von Kampen Johann Schylder und Wighard Schursak; [...] von Lübeck die Herren Gerhard von Attendorn, Heinrich Westhoff, Johann Pertzevale, Thomas Murkerke, Johann Nyebuer, Bruno Warendorp, Heinrich von Hachede, Bertold Kerkring und Hermann Darsow die folgenden Angelegenheiten verhandelt.",
+     "note": "Fastnacht 1394 fiel auf den 3. März. Ausgelassen sind die Sendeboten von Stettin, Kolberg, Zierikzee, Amsterdam, Riga, Dorpat und Reval. Lübeck allein schickte neun Ratsherren; die anderen Städte je einen oder zwei. Hamburg vermerkte in seinen Kämmereirechnungen die Reisekosten seiner beiden Sendeboten (so Koppmanns Anmerkung, Kämmereirechnungen 1, S. 479). Der Rezess ist in sechs Handschriften überliefert; Koppmann folgt der Hamburger."
+    },
+    {
+     "n": 2,
+     "titel": "Was Mecklenburg verlangt",
+     "pg": "168",
+     "orig": "Do worden se ghevraghet, wes se den steden anmodende weren, dat se by en do̊n scholden. Des beghereden se, dat men vor eren heren wolde manen de koninginne, dat se van eren heren moghelike beschattinghe wolde nemen; de stede scholden mechtich syn over eren heren alles rechtes, mynne, vrenscap unde beschattinghe; oft des de koninginne nicht do̊n en wolde, dat sik de stede denne gheven to hulpe eres kryghes uppe de koniginnen. Des antwordeden en de stede, dat se tovorn, alse se wol wysten, daghe hadden dar umme ghehalden mit der koninginnen unde grote koste unde teringhe dar umme ghedan, alse wolden se noch gherne ere breve dar umme scriven an de koninginnen und manen unde arbeyden vor eren heren, alse se best kunden; sunder yn eren openbaren kryghen syk mit en to stekende, des en weren se nicht mechtich, de hir vorgaddert syn, unde hebben dat to rugghe ghetoghen malk to syme raade.",
+     "en": "Da wurden sie gefragt, was sie von den Städten verlangten, das diese für sie tun sollten. Sie begehrten, man möge für ihren Herrn die Königin mahnen, dass sie von ihrem Herrn ein mögliches Lösegeld nehme; die Städte sollten über ihren Herrn Vollmacht haben in allem Recht, aller Minne, Freundschaft und Schatzung; wolle die Königin das nicht tun, so sollten die Städte ihnen in ihrem Krieg gegen die Königin helfen. Darauf antworteten ihnen die Städte: Sie hätten, wie jene wohl wüssten, schon früher deswegen Tage mit der Königin gehalten und große Kosten und Zehrung darauf gewandt; sie wollten auch weiterhin gern deswegen an die Königin schreiben und sie mahnen und sich für ihren Herrn einsetzen, so gut sie könnten; sich aber in ihren offenen Krieg mit ihnen einzulassen, dazu seien sie, die hier versammelt sind, nicht bevollmächtigt, und jeder hat das an seinen Rat zurückgenommen.",
+     "note": "‚Sie‘ sind Herzog Johann von Mecklenburg, sein Rat und die Sendeboten von Rostock und Wismar. Ihr Herr ist König Albrecht von Schweden, seit 1389 Gefangener Königin Margaretes. Mecklenburg bietet den Städten den Ersatz ihrer Schäden erst nach Albrechts Freilassung an und verlangt dafür Hilfe gegen die Königin. Die Städte lehnen ab: ‚to rugghe theen‘, an den eigenen Rat zurücknehmen, ist die Formel des Hansetags für alles, wofür die Sendeboten keine Vollmacht haben."
+    },
+    {
+     "n": 3,
+     "titel": "Mecklenburg verspricht, die Häfen zu sperren",
+     "pg": "168",
+     "orig": "Unde van en wart beghert, dat se hirinbynnen also bewiseden sik in der wedderghevinghe des gudes unde der schepe, de noch vor ooghen synt, und in der bevredinge der se, alse se begherden, dat de stede by en wedder deden, wente en gůt wille mochte den andren maken. Des hebben se ghesecht, dat se dat na erer moghelicheyt do̊n willen, unde hebben alrede gheboden und noch beeden willen al den jennen, de ůt eren havenen unde dar yn seghelen, dat se den kopman, de (ut vrende landen) to vrende landen seghelt, nicht beschedighen schullen; deden se dat darenboven, so schullen se unde ere gůt nenes leydes meer bruken in eren steden edder havenen; unde dat se ok dat hadden alrede bestellet unde wolden dat noch bestellen in allen dorpen by der see lang, dat men nen gůt, wes to lande qweme, scholde to lande wart invoren.",
+     "en": "Und von ihnen wurde begehrt, dass sie sich unterdessen in der Rückgabe des Guts und der Schiffe, die noch vorhanden sind, und in der Befriedung der See so verhielten, wie sie es von den Städten umgekehrt begehrten; denn ein guter Wille könne den anderen erzeugen. Darauf haben sie gesagt, sie wollten das nach ihren Möglichkeiten tun; sie hätten schon allen geboten und wollten noch allen gebieten, die aus ihren Häfen und in sie hinein segeln, dass sie den Kaufmann, der (aus Freundesland) in Freundesland segelt, nicht schädigen sollen; täten sie es dennoch, so sollten sie und ihr Gut kein Geleit mehr in ihren Städten oder Häfen genießen; und sie hätten auch schon angeordnet und wollten noch anordnen in allen Dörfern an der See entlang, dass man kein Gut, das an Land komme, landeinwärts führen solle.",
+     "note": "Das ist das Versprechen, auf dem der Kaperkrieg beruht: Rostock und Wismar lassen die Vitalienbrüder aus- und einlaufen, solange sie nur Feinde schädigen. ‚Leide‘, das Geleit, ist der Schutz, den ein Hafen gewährt; wer ihn verliert, ist vogelfrei. Die Worte ‚ut vrende landen‘ fehlen in der Hamburger Handschrift und sind von Koppmann ergänzt."
+    }
+   ]
+  },
+  {
+   "id": "flotte",
+   "titel": "Die Friedekoggen",
+   "zk": "Flotte 1394",
+   "blurb": "Der Beschluss, die See zu befrieden: wie viele Koggen und Bewaffnete jede Stadt stellt, der Geleitzug zu Pfingsten durch den Øresund, und die Strafen für Deserteure und säumige Städte.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Der Beschluss: die See befrieden",
+     "pg": "168",
+     "orig": "6. Vortmer umb den groten drapliken schaden, de in mengherleye zeerøve unde morde van langhen tiiden dem ghemeenen kopmanne tor ze wart ghescheen ys (unde) noch schut, so sint de stede hir to desser dachvart vorghadert des to rade worden, dat se de zee willen bevreden vor den seeroveren, also dat de kopman velich varen moghe unde malk den anderen dar to truweliken wyl helpen in der wiis, alse hir na ghescreven steyt, also dat de van Lubeke schullen ůtmaken 6 coggen ghemannet mit guden wepeneren, dat ys to vorstande 100 wapent yn enen jewelken coggen, unde to jewelkem coggen schullen wesen 1 schute unde en snikke;",
+     "en": "6. Ferner: Wegen des großen, schweren Schadens, der dem gemeinen Kaufmann zur See seit langer Zeit durch vielerlei Seeraub und Mord geschehen ist und noch geschieht, sind die Städte, hier zu dieser Tagfahrt versammelt, zu Rat geworden, dass sie die See vor den Seeräubern befrieden wollen, sodass der Kaufmann sicher fahren könne, und jeder dem anderen dazu treulich helfen will in der Weise, wie hiernach geschrieben steht: Die von Lübeck sollen sechs Koggen ausrüsten, bemannt mit guten Bewaffneten, das ist zu verstehen: hundert Bewaffnete in jeder Kogge, und zu jeder Kogge sollen eine Schute und eine Snicke gehören;",
+     "note": "Die Kogge war das große Frachtschiff der Hanse; als Kriegsschiff trug sie hundert Bewaffnete. Schute und Snicke sind kleine, schnelle Beiboote. ‚Bevreden‘, befrieden, ist das Wort, aus dem die ‚vredecoggen‘, die Friedeschiffe, ihren Namen haben. Paragraph 5, eine ältere Fassung desselben Beschlusses, steht nur in der Stralsunder Handschrift."
+    },
+    {
+     "n": 2,
+     "titel": "Wer wie viele Schiffe stellt",
+     "pg": "168–169",
+     "orig": "de van dem Sůnde schullen ůtmaken 4 coggen (mit 400 ghewapent) des ghelikes; de van dem Gripeswolde, Anklym, Wolgast unde Demyn 2 coggen mit 120 ghewapent des ghelikes; de van Stettyn, Nyen Stargherde, Golnowe, Gartze, Grifenhaghen, Damme und van Cammyn 2 coggen mit 200 ghewapent des ghelikes; de van Kolberghe, Rugenwolt, Stolpe, Trepetowe, Grifenberghe unde van Wolyn 2 coggen mit 80 ghewapent des ghelik(es); de van Prutzen 10 coggen mit 1000 ghewapent des ghelikes; de van Campen 2 coggen unde 4 Rynsschepe mit 300 ghewapent des ghelikes; de van Dordrech, Amsterledamme, van Staveren, van Herderwiik unde al de stede by der Sudersee beseten, ůtghenomen (de van Campen scholen ůtmaken 2 coggen mit 200 gewapenden mannen, also vorscreven ys); de van Zelande schullen ůtmaken 4 coggen mit 400 mannen ghewapent, alse vorscreven ys; unde de van Liflande schullen ůtmaken 2 coggen mit 200 mannen ghewapent des ghelik. Yn enem jewelken coggen schullen joo mang den hundert ghewapent wesen 20 gude schutten mit eren vullen wapene unde mit starken armborsten.",
+     "en": "die von Stralsund sollen vier Koggen ausrüsten (mit 400 Bewaffneten), ebenso; die von Greifswald, Anklam, Wolgast und Demmin zwei Koggen mit 120 Bewaffneten, ebenso; die von Stettin, Neu-Stargard, Gollnow, Gartz, Greifenhagen, Damm und Cammin zwei Koggen mit 200 Bewaffneten, ebenso; die von Kolberg, Rügenwalde, Stolp, Treptow, Greifenberg und Wollin zwei Koggen mit 80 Bewaffneten, ebenso; die von Preußen zehn Koggen mit 1000 Bewaffneten, ebenso; die von Kampen zwei Koggen und vier Rheinschiffe mit 300 Bewaffneten, ebenso; die von Dordrecht, Amsterdam, Stavoren, Harderwijk und alle Städte, die an der Zuidersee liegen, ausgenommen (die von Kampen sollen zwei Koggen mit 200 bewaffneten Männern ausrüsten, wie oben geschrieben); die von Seeland sollen vier Koggen mit 400 Bewaffneten ausrüsten, wie oben geschrieben; und die von Livland zwei Koggen mit 200 Bewaffneten, ebenso. In jeder Kogge sollen unter den hundert Bewaffneten zwanzig gute Schützen sein, mit ihrer vollen Rüstung und mit starken Armbrüsten.",
+     "note": "Zusammen über dreißig Koggen und gut dreitausend Mann. Die Wendischen Städte Rostock und Wismar fehlen in der Liste: sie waren Partei. Der Satz über die Städte an der Zuidersee geht ohne eigene Zahl in den über Seeland über; vermutlich stellen sie mit Seeland zusammen die vier Koggen. Für Kampen nennt der Rezess zweimal verschiedene Zahlen, 300 und 200 Bewaffnete. Die kleinen pommerschen Städte stellen gemeinsam zwei Koggen mit nur achtzig Mann."
+    },
+    {
+     "n": 3,
+     "titel": "Zu Pfingsten in den Øresund",
+     "pg": "169",
+     "orig": "Desse were ys aldus gheramet, alse vorscreven steyt, unde dat heft en jewelk van den steden hir vorgaddert to rugghe ghetoghen, dar van en antwort to enbedende den heren, dem raade, to Lubeke verteyn daghe na paschen neghest to komende [...]. Men uppe pinxsten schullen se alle rede wesen in der wiis, alse hir na ghescreven steyt: dat alle de coggen unde lude van der Sudersee, van Holland und van Seeland schullen zyk reden, dat se up pinxsten neghest to komende alle rede syn, to seghelende mit dem ersten winde mit der gantzen vløte van allen coopschepen in Vlandren unde in England yn den Øressund, unde dar tosamende komen [...]. Unde al de coggen unde lude van den steden der Wendischen syde, van Prutzen unde van Liflande schullen mit erer gantzen vløte mit al den schepen, de ůt eren havenen seghelen willen, rede wesen, up pinxsten neghest komende to seghelende up den Jeland, syk dar to vindende unde to der vløte van der Sudersee to seghelende in den Øressund, also snel, alse se moghen.",
+     "en": "Diese Wehr ist so geplant, wie oben geschrieben steht, und jede der hier versammelten Städte hat es an ihren Rat zurückgenommen, um darauf den Herren, dem Rat zu Lübeck, vierzehn Tage nach dem nächsten Ostern Antwort zu geben [...]. Aber zu Pfingsten sollen sie alle bereit sein in der Weise, wie hiernach geschrieben steht: dass alle Koggen und Leute von der Zuidersee, von Holland und von Seeland sich rüsten sollen, dass sie zum nächsten Pfingsten alle bereit sind, mit dem ersten Wind mit der ganzen Flotte aller Kaufschiffe in Flandern und England in den Øresund zu segeln und dort zusammenzukommen [...]. Und alle Koggen und Leute aus den Städten der Wendischen Seite, aus Preußen und aus Livland sollen mit ihrer ganzen Flotte und mit allen Schiffen, die aus ihren Häfen segeln wollen, zum nächsten Pfingsten bereit sein, nach Seeland zu segeln, sich dort zu treffen und mit der Flotte von der Zuidersee in den Øresund zu segeln, so schnell sie können.",
+     "note": "Ostern 1394 fiel auf den 19. April, Pfingsten auf den 7. Juni. Die Friedeschiffe sollen also die ganze Handelsflotte als Geleitzug durch den Øresund bringen: von Westen die Schiffe aus Flandern und England, von Osten die aus der Ostsee. ‚Jeland‘ ist Seeland, die dänische Insel am Sund. ‚Rugghe theen‘ hier wieder: Keine Stadt ist gebunden, bevor ihr Rat zustimmt."
+    },
+    {
+     "n": 4,
+     "titel": "Bei den Friedekoggen bleiben, bei Leib und Gut",
+     "pg": "169",
+     "orig": "Unde wanneer se dar vorghadert syn, so schal de gantze vlote in beyden tziden by den vredecoggen bliven, unde do̊n, wat en de hovetlude heten, wente to der tiid, dat en de hovetlude ørloff gheven to seghelende, by lyve unde by gůde; we dar ane brekt, dat schal men richten, alse de ordinancie utwyset, de to Kolne in den 67 jare maket wart. Unde en jewelk stat schal eren borgheren, de dor den Øressund seghelen willen, beden, dat se sik reden to gůden wapenen. Were ok sake, dat jenich schippere, stureman, botesman, schipman ofte andre leddighe lude, de ute den steden desses vorbundes weren, sik over deden to den ghennen, de den kopman beschedighen, de schullen unvelich wesen in allen steden unde havenen van dessem vorbunde to ewighen tiiden.",
+     "en": "Und wenn sie dort versammelt sind, soll die ganze Flotte auf beiden Seiten bei den Friedekoggen bleiben und tun, was die Hauptleute ihnen heißen, bis die Hauptleute ihnen Urlaub zum Segeln geben, bei Leib und Gut; wer dagegen verstößt, über den soll man richten, wie es die Ordnung ausweist, die zu Köln im Jahr 67 gemacht wurde. Und jede Stadt soll ihren Bürgern, die durch den Øresund segeln wollen, gebieten, dass sie sich mit guten Waffen rüsten. Wäre es auch so, dass irgendein Schiffer, Steuermann, Bootsmann, Schiffsmann oder andere ledige Leute aus den Städten dieses Bundes zu denen übergingen, die den Kaufmann schädigen, so sollen sie in allen Städten und Häfen dieses Bundes auf ewige Zeiten ohne Geleit sein.",
+     "note": "Die Kölner Ordnung von 1367 ist die Konföderation der Städte gegen König Waldemar IV. von Dänemark, auf die sich der Beschluss als Vorbild beruft. Der letzte Satz zeigt, woher die Vitalienbrüder kamen: Schiffer, Steuerleute und Seeleute aus den Hansestädten selbst. ‚Ledige Leute‘ sind Männer ohne feste Heuer."
+    },
+    {
+     "n": 5,
+     "titel": "Wer nicht hilft, wird boykottiert",
+     "pg": "169",
+     "orig": "Vortmer, werit alsoo, dat jenich stat van den vorscreven steden, de den andren steden to helpe ghesettet syn, en dar to nicht en hulpe, der stat borghere unde koplude schullen nene menscap hebben mit al den steden, de in dessem vorbunde syn, also dat men en nicht affkopen noch vorkopen schal; dat se ok nene havene der stede soken schullen, ůt edder in to varende, noch to ladende, noch to entladende bynnen 10 jaren.",
+     "en": "Ferner: Wäre es so, dass irgendeine der genannten Städte, die den anderen Städten zur Hilfe zugeordnet sind, ihnen dabei nicht hülfe, so sollen die Bürger und Kaufleute dieser Stadt keine Gemeinschaft haben mit allen Städten, die in diesem Bund sind, sodass man ihnen weder abkaufen noch verkaufen soll; dass sie auch keinen Hafen der Städte aufsuchen sollen, weder aus- noch einzufahren, noch zu laden, noch zu entladen, zehn Jahre lang.",
+     "note": "Die Strafe der Hanse ist der Ausschluss vom Handel, hier für zehn Jahre. Wer in diesem Zeitraum mit einer solchen Stadt handelt, verliert, wie der Rezess anschließend festsetzt, ebenso viel Gut, wie er gekauft oder verkauft hat."
+    }
+   ]
+  },
+  {
+   "id": "pfund",
+   "titel": "Das Pfundgeld",
+   "zk": "Flotte 1394 Pfundgeld",
+   "blurb": "Wie die Kosten getragen werden: ein Zoll auf die Ladung aller, die die See nutzen, ohne Schiffe zu stellen, geteilt nach der Zahl der gestellten Männer.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Das Pfundgeld: wer zahlt",
+     "pg": "170",
+     "orig": "9. Vortmer umb desse koste to dreghende, so sint de stede des to rade worden, dat men puntghelt upnemen schal van den jennen, (de in desseme vorbunde mochten zyn unde) de to desser were nicht gevøghet syn unde dar nicht to en do̊n, noch mit luden edder mit schepe, unde doch de(r) see bruken, se syn, van wennen dat se sin, also dat men schal gheven van enem jewelkem punt grote 2 grote, van 6 marken Lubesch 8 penninghe Lubesch, van neghen marken Sundesch 1 schilling Sundesch, van 3 (marken) Prutzesch 15 Prutzesche penninghe, van 3 marken Ryghesch 9 Lubesche penninghe, van 6 marken vinkenooghen 8 vinkenoghen, he wille seghelen, wor he seghelen wille.",
+     "en": "9. Ferner: Um diese Kosten zu tragen, sind die Städte zu Rat geworden, dass man Pfundgeld erheben soll von denjenigen, (die in diesem Bund sein mögen und) die dieser Wehr nicht zugeordnet sind und nichts dazu tun, weder mit Leuten noch mit Schiffen, und doch die See benutzen, woher sie auch seien: so dass man geben soll von jedem Pfund Groten zwei Groten, von sechs Mark lübisch acht Pfennig lübisch, von neun Mark sundisch einen Schilling sundisch, von drei Mark preußisch fünfzehn preußische Pfennig, von drei Mark rigisch neun lübische Pfennig, von sechs Mark Finkenaugen acht Finkenaugen, wohin er auch segeln wolle.",
+     "note": "Das Pfundgeld ist ein Wertzoll auf die Ladung, weniger als ein Prozent: zwei Groten auf das Pfund Groten sind ein Hundertzwanzigstel. Es zahlt, wer die See nutzt, ohne Schiffe oder Leute zu stellen. Die Liste der Währungen zeigt den Raum der Hanse: das flämische Pfund Groten, die Mark von Lübeck, Stralsund, Preußen und Riga, die Finkenaugen von Pommern. Die Worte in Klammern fehlen in der Hamburger Handschrift."
+    },
+    {
+     "n": 2,
+     "titel": "Schiffer zahlen halb, Hamburg zahlt nicht",
+     "pg": "170",
+     "orig": "Des ghelikes scholen de schipheren van eren schepen halff puntghelt gheven, unde van erer kopenscap unde gůde, dat se voren, (dat sik strecket) boven kost, schullen (se) lik den anderen kopluden gheven. De stede willen den borgheren van Hamborch des puntgheldes up desse tiid vordreghen umbe der groten koste willen, de de van Hamborch hebben ghehat unde noch hebben, umbe de Elve to bevredende. Dit puntghelt schal men upboren in ener jewelken stad, dar men ůt der havene seghelt, van den steden unde luden, de to desser were nicht en do̊n, by eren eeden, unde dar schal men breve up gheven, de se bringen in den andren markt, dar se seghelen scholen.",
+     "en": "Ebenso sollen die Schiffer von ihren Schiffen halbes Pfundgeld geben, und von ihrer Kaufmannschaft und ihrem Gut, das sie führen, soweit es über die Kost hinausgeht, sollen sie wie die anderen Kaufleute geben. Die Städte wollen den Bürgern von Hamburg das Pfundgeld diesmal erlassen wegen der großen Kosten, die die Hamburger gehabt haben und noch haben, um die Elbe zu befrieden. Dieses Pfundgeld soll man in jeder Stadt erheben, wo man aus dem Hafen segelt, von den Städten und Leuten, die zu dieser Wehr nichts beitragen, bei ihren Eiden; und darüber soll man Briefe geben, die sie in den anderen Markt bringen, wohin sie segeln.",
+     "note": "Hamburg führte seinen eigenen Seekrieg auf der Elbe und wird dafür befreit. Die Quittung, der ‚Brief‘, verhindert, dass dieselbe Ladung zweimal zahlt: in Hamburg muss nur zahlen, wer keinen Brief bringt. ‚Boven kost‘: was über den eigenen Proviant hinausgeht."
+    },
+    {
+     "n": 3,
+     "titel": "Wem das Geld gehört",
+     "pg": "170",
+     "orig": "Dit puntghelt schal men upboren to der ghemenen stede behøff, de de (vr)edecoggen ůtghemaket hebben, unde bringhen dat tur rekenscap, alse de stede vorgadern, dat to delende na mantaale. Vortmer so schal anghan de tiid der upneminghe desses puntgheldes to paschen neghest to komende, unde schal duren en jaar, up der ghemenen stede behagh to vorlengende.",
+     "en": "Dieses Pfundgeld soll man erheben zum Nutzen der gemeinen Städte, die die Friedekoggen ausgerüstet haben, und es zur Rechnung bringen, wenn die Städte sich versammeln, um es nach Mannzahl zu teilen. Ferner soll die Zeit der Erhebung dieses Pfundgelds zum nächsten Ostern beginnen und ein Jahr dauern, nach dem Belieben der gemeinen Städte zu verlängern.",
+     "note": "‚Na mantaale‘, nach Mannzahl: Jede Stadt bekommt aus dem Pfundgeld so viel, wie sie Bewaffnete gestellt hat. Die Friedeschiffe sollten sich also selbst bezahlen, aus dem Handel, den sie schützten. Das Pfundgeld wurde später mehrfach verlängert; seine Abrechnung steht in einem eigenen Modul."
+    }
+   ]
+  },
+  {
+   "id": "geleit",
+   "titel": "Der Geleitzug",
+   "zk": "Flotte 1394 Geleit",
+   "blurb": "Lübeck schreibt den Kaufleuten in Brügge und London, und niemand soll vor Pfingsten segeln außer mit der Flotte.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Lübeck schreibt den Kaufleuten",
+     "pg": "172",
+     "orig": "20. Item wanneer den van Lubeke en antworde kumpt van den steden, dat se ere were in de see leggen willen, alse des gheramet ys, so schullen de van Lubeke deme kopmanne ere breve scriven, aldus ludende: dat se den kopluden unde den schipheren seggen, dat se sik rede maken, to seghelende up pinxsten, alse vorscreven ys, unde sik sterken, alse se sterkist moghen, mit luden unde mit harnische, unde ere schepe nicht vorladen, mit den ersten winde ůt to seghelende mit den van der Sůdersee, unde nicht van der vløte to schedende by lyve unde by gůde, yt en were, dat en de hovetlude van der vløte orloff gheven, alse vorscreven ys; unde dat se dat vorscriven deme kopmanne in Engeland unde wor des behøff ys.",
+     "en": "20. Item: Wenn denen von Lübeck von den Städten Antwort kommt, dass sie ihre Wehr in die See legen wollen, wie es geplant ist, so sollen die von Lübeck dem Kaufmann ihre Briefe schreiben, so lautend: dass sie den Kaufleuten und den Schiffern sagen, sie sollen sich bereit machen, zu Pfingsten zu segeln, wie oben geschrieben, und sich verstärken, so stark sie können, mit Leuten und mit Harnisch, und ihre Schiffe nicht überladen, um mit dem ersten Wind mit denen von der Zuidersee auszusegeln, und sich nicht von der Flotte zu trennen, bei Leib und Gut, es sei denn, die Hauptleute der Flotte gäben ihnen Urlaub, wie oben geschrieben; und dass sie das dem Kaufmann in England weiterschreiben und wohin es nötig ist.",
+     "note": "Der ‚Kaufmann‘ ist hier das hansische Kontor in Brügge, das an das Kontor in London weitergeben soll. Lübeck führt die Korrespondenz des Bundes: Es wartet die Antworten der Räte ab und gibt dann den Befehl. ‚Nicht vorladen‘, nicht überladen: Ein überladenes Schiff kann im Geleitzug nicht mithalten und nicht kämpfen."
+    },
+    {
+     "n": 2,
+     "titel": "Niemand segelt vor Pfingsten",
+     "pg": "172",
+     "orig": "21. Item sint de stede des enes gheworden, dat nemend seghelen schal vor pinxsten, men mit der vløte, ůt der havenen, dar he nů inne ys, koopvart to der seewart, ane (bynnen landes), dat utghesproken ys. Dyt hebbet de van dem Sůnde, Gripeswolt, Stettyn, Colberge to rugge ghetoghen: wanneer se den van Lubeke en antworde toenbeden, dat se dat also holden willen, so willen yt de van Lubeke (unde Průtzen) ok gherne also holden.",
+     "en": "21. Item sind die Städte darin einig geworden, dass niemand vor Pfingsten segeln soll, außer mit der Flotte, aus dem Hafen, in dem er jetzt liegt, auf Kauffahrt seewärts; ausgenommen ist (die Fahrt binnenlands), die ausdrücklich ausgenommen ist. Das haben die von Stralsund, Greifswald, Stettin und Kolberg an ihren Rat zurückgenommen: Wenn sie denen von Lübeck Antwort geben, dass sie es so halten wollen, so wollen die von Lübeck (und Preußen) es auch gern so halten.",
+     "note": "Ein Segelverbot für die ganze Ostsee bis Pfingsten: Der Handel wartet auf den Geleitzug. Die pommerschen Städte, deren Kaufleute es am härtesten traf, behalten sich die Zustimmung vor, und Lübeck macht seine eigene von der ihren abhängig. Ob die Flotte im Sommer 1394 so auslief, wie hier beschlossen, sagt der Rezess nicht; davon handeln die späteren Module."
+    }
+   ]
+  }
+ ]
+}

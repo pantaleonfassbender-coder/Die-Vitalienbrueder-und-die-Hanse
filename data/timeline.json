@@ -1,0 +1,73 @@
+{
+ "lede": "Von der Belagerung Stockholms bis zu den Hinrichtungen in Hamburg. Stationen mit Quellenverweis führen in die Texte; die übrigen folgen modernen Darstellungen und warten auf ihr Modul.",
+ "stations": [
+  {
+   "d": "1389",
+   "side": "kronen",
+   "titel": "Falköping und die Belagerung Stockholms",
+   "text": "Königin Margarete besiegt König Albrecht von Schweden, einen Mecklenburger, und nimmt ihn gefangen; Stockholm, von seinen deutschen Bürgern gehalten, wird belagert. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "1389–1392",
+   "side": "vitalien",
+   "titel": "Die Vitalienbrüder",
+   "text": "Mecklenburg öffnet seine Häfen für alle, die gegen Dänemark kapern wollen; Rostock und Wismar rüsten Schiffe aus, die Stockholm mit Lebensmitteln versorgen. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "1392–1394",
+   "side": "vitalien",
+   "titel": "Bergen und die Ostsee",
+   "text": "Die Vitalienbrüder plündern Bergen in Norwegen und machen die Ostsee unsicher; der Handel der Städte stockt. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "März 1394",
+   "side": "hanse",
+   "titel": "Der Flottenbeschluss",
+   "text": "Ein Hansetag in Lübeck beschließt, die See vor den Seeräubern zu befrieden: Lübeck stellt sechs Koggen, Preußen zehn, zusammen über dreißig mit gut dreitausend Mann; bezahlt wird mit einem Pfundgeld auf die Ladung.",
+   "cite": "#/text/flotte1394/flotte/1",
+   "citeLabel": "Flotte 1394 [1]"
+  },
+  {
+   "d": "1394",
+   "side": "vitalien",
+   "titel": "Visby",
+   "text": "Die Vitalienbrüder setzen sich auf Gotland fest. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "1395",
+   "side": "kronen",
+   "titel": "Der Frieden von Lindholm",
+   "text": "Margarete lässt Albrecht frei; Stockholm wird für drei Jahre den Städten verpfändet. Wer weiter kapert, kapert ohne Krieg. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "1398",
+   "side": "orden",
+   "titel": "Der Deutsche Orden auf Gotland",
+   "text": "Hochmeister Konrad von Jungingen landet mit einem Heer auf Gotland und vertreibt die Vitalienbrüder aus Visby. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "1400",
+   "side": "hanse",
+   "titel": "Emden",
+   "text": "Eine Flotte der Städte zieht nach Ostfriesland, wo die Vitalienbrüder bei friesischen Häuptlingen Schutz gefunden haben. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "15. August 1400",
+   "side": "vitalien",
+   "titel": "Ein Vertrag mit Störtebeker",
+   "text": "Herzog Albrecht von Holland schließt einen Vertrag mit ‚Johan Stortebeker‘ und anderen. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "1400",
+   "side": "hanse",
+   "titel": "Dreißig Enthauptungen",
+   "text": "Hamburg bezahlt den Henker für die Enthauptung von dreißig Vitalienbrüdern und lässt ein Grab ausheben. (Nach modernen Darstellungen; Modul geplant.)"
+  },
+  {
+   "d": "1401",
+   "side": "hanse",
+   "titel": "Helgoland",
+   "text": "Hamburger Schiffe stellen die Vitalienbrüder bei Helgoland; dreiundsiebzig werden in Hamburg begraben. Die Chroniken nennen Klaus Störtebeker und Godeke Michels. (Nach modernen Darstellungen; Modul geplant.)"
+  }
+ ]
+}
