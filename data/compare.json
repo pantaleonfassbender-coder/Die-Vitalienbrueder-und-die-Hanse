@@ -68,6 +68,73 @@
      ]
     }
    ]
+  },
+  {
+   "id": "erschlagen",
+   "titel": "Vertrieben oder erschlagen",
+   "frage": "Gotland 1398: drei Berichte über das Ende der Vitalienbrüder auf der Insel.",
+   "note": "Die Parteischrift des Hochmeisters unterscheidet zwei Gruppen: Wohl 400 ziehen mit Herzog Johann ab und geloben, den Kaufmann nicht mehr zu schädigen; die übrigen, auf dem Land ergriffen, werden alle erschlagen. Die Thorner Annalen sagen, die Räuber seien vertrieben worden, ‚aber nicht getötet‘. Detmars Fortsetzer in Lübeck kennt nur einen Sieg ‚ohne Widerstand‘. Der Orden, der sein Recht auf Gotland verteidigt, erzählt die härteste Fassung.",
+   "voices": [
+    {
+     "text": "gotland",
+     "sec": "bericht",
+     "n": [
+      6
+     ]
+    },
+    {
+     "text": "gotland",
+     "sec": "chroniken",
+     "n": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "knechte",
+   "titel": "Seine Knechte",
+   "frage": "1395 und 1398: zwei Mecklenburger verteidigen die Vitalienbrüder.",
+   "note": "1395 sagt König Albrecht in Lübeck, Rostock und Wismar hätten alles um seiner Befreiung willen getan. 1398 sagt sein Neffe Herzog Johann vor Visby, er sei der Vitalienbrüder nicht mächtig, und verteidigt sie doch als seine Knechte. Beide Male nimmt der Fürst die Kaperer als seine Kriegsleute in Schutz, und beide Male gibt die Gegenseite nicht nach: die Städte, weil ihnen nicht zustehe, fremden Schaden zu erlassen, der Orden mit Schiffen.",
+   "voices": [
+    {
+     "text": "luebeck1395",
+     "sec": "tag",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "gotland",
+     "sec": "bericht",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pfundgeld1398",
+   "titel": "Wer das Pfundgeld nimmt",
+   "frage": "1395 will Preußen ein gemeinsames Pfundgeld, 1398 erhebt der Hochmeister sein eigenes.",
+   "note": "Im September 1395 bitten die preußischen Sendeboten den Hansetag um ein Pfundgeld für das nächste Jahr, und die Städte lehnen ab. Im Februar 1398 lässt der Hochmeister seine Städte erklären, er habe die Wehr allein und schnell in See gelegt und nehme in seinen Häfen Pfundgeld, bis die Kosten bezahlt sind. Wer zahlt, der führt: Aus dem gemeinsamen Krieg der Städte ist ein Krieg des Ordens geworden.",
+   "voices": [
+    {
+     "text": "luebeck1395",
+     "sec": "tag",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "gotland",
+     "sec": "orden",
+     "n": [
+      1
+     ]
+    }
+   ]
   }
  ]
 }

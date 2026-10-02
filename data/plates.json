@@ -1,6 +1,6 @@
 {
  "lede": "Was die Zeit selbst von Stadt und Schiff zeigt, die Seiten, aus denen die Texte gelesen sind, und wo es geschah. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, die sie zeigen.",
- "credit": "Tafeln: Holzschnitt der Schedelschen Weltchronik (Nürnberg 1493), das Siegel der Stadt Elbing (1350) und Willy Stöwers Zeichnung hansischer Schiffe (1902), aus gemeinfreien Reproduktionen über Wikimedia Commons; Seiten der hier gelesenen Editionen (Hanserecesse I.4, 1877; Chroniken der deutschen Städte 26, 1899) aus dem Internet Archive; und eine für diese Site gezeichnete Karte mit Küstenlinien aus Natural Earth. Alles gemeinfrei oder CC0; für die Site verkleinert.",
+ "credit": "Tafeln: Holzschnitt der Schedelschen Weltchronik (Nürnberg 1493), das Siegel der Stadt Elbing (1350), das Siegel Konrads von Jungingen (1404, Archiwum Główne Akt Dawnych), Gotland auf der Carta marina des Olaus Magnus (1539) und Willy Stöwers Zeichnung hansischer Schiffe (1902), aus gemeinfreien Reproduktionen über Wikimedia Commons; Seiten der hier gelesenen Editionen (Hanserecesse I.4, 1877; Scriptores rerum Prussicarum III, 1866; Chroniken der deutschen Städte 26, 1899) aus dem Internet Archive; und eine für diese Site gezeichnete Karte mit Küstenlinien aus Natural Earth. Alles gemeinfrei oder CC0; für die Site verkleinert.",
  "plates": [
   {
    "id": "karte",
@@ -50,6 +50,34 @@
    "side": "rezeption",
    "caption": "Chroniken der deutschen Städte 26, S. 50: unten § 974, Detmars Bericht vom ‚sturlos volk‘, das sich Vitalienbrüder nannte. Im Apparat stehen die lateinischen Parallelen aus Hermann Korners Chronik (Lübeck 1395 Detmar [1]).",
    "source": "Die Chroniken der niedersächsischen Städte. Lübeck, Bd. 2, hg. von Karl Koppmann (Die Chroniken der deutschen Städte 26, Leipzig 1899), S. 50; Internet Archive (bub_gb_oqgKAAAAIAAJ), digitalisiert von Google."
+  },
+  {
+   "id": "jungingen",
+   "titel": "Das Siegel Konrads von Jungingen",
+   "side": "orden",
+   "caption": "Das Siegel des Hochmeisters, der 1398 die Flotte nach Gotland schickte: der Schild mit dem Kreuz des Ordens in einem Sechspass, Umschrift ‚S[igillum] fr[atr]is Conradi de Jungingen mag[ist]ri g[e]n[er]alis‘, in schwarzem Wachs an einem Pergamentstreifen. Ihm wird Visby als ‚offen slos‘ geöffnet (Gotland 1398 Urkunde [1]).",
+   "source": "Siegel Konrads von Jungingen an einer Urkunde von 1404; Warschau, Archiwum Główne Akt Dawnych, Zbiór Dokumentów Pergaminowych 31; über Wikimedia Commons."
+  },
+  {
+   "id": "cartagotland",
+   "titel": "Gotland auf der Carta marina",
+   "side": "orden",
+   "caption": "Gotland mit Visby im Mare Gothicum, gut hundertvierzig Jahre nach dem Zug des Ordens, auf der großen Nordlandkarte des Olaus Magnus. Die Insel liegt, wie die Parteischrift des Hochmeisters sagt, ‚mitten in der sehe‘ (Gotland 1398 Bericht [7]).",
+   "source": "Olaus Magnus, Carta marina (Venedig 1539), Ausschnitt; über Wikimedia Commons."
+  },
+  {
+   "id": "hr417",
+   "titel": "Die Parteischrift im Druck",
+   "side": "orden",
+   "caption": "Hanserecesse I.4, S. 417: die Paragraphen 10–15 der Parteischrift des Hochmeisters, von der Landung bei Garn über den Schnee vor Visby bis zum Abzug der 400 und dem Satz ‚dy worden allir dirslagen‘ (Gotland 1398 Bericht [4]–[7]).",
+   "source": "Hanserecesse, 1. Abt., Bd. 4, hg. von Karl Koppmann (Leipzig 1877), S. 417; Internet Archive (hanserecesse12roppgoog)."
+  },
+  {
+   "id": "srp217",
+   "titel": "Drei Chroniken in drei Spalten",
+   "side": "rezeption",
+   "caption": "Scriptores rerum Prussicarum III, S. 217: links die Thorner Annalen, in der Mitte Detmars Fortsetzung, rechts Johann von Posilge, alle drei zum Zug nach Gotland 1398. Die Edition von 1866 legt die Überlieferungen nebeneinander, wie es die Vergleichsseite dieser Site tut (Gotland 1398 Chroniken).",
+   "source": "Scriptores rerum Prussicarum, Bd. 3, hg. von Theodor Hirsch, Max Toeppen und Ernst Strehlke (Leipzig 1866), S. 217; Internet Archive (bub_gb_qtftAAAAIAAJ)."
   },
   {
    "id": "stoewer",

@@ -23,16 +23,17 @@
    "zk": "Lübeck 1395",
    "kurz": "Der Lübecker Hansetag vom September 1395, mit Detmar",
    "warum": "Klagen aus England und Flandern gegen Rostock und Wismar, König Albrecht, der seine Helfer ‚um seiner Befreiung willen‘ verteidigt, eine zweite Friedeflotte und das Pfundgeld; dazu Detmar, der Chronist des Rats, über die Vitalienbrüder und Lübecks Sommerflotte, und sein Fortsetzer mit der ersten Legende. Mittelniederdeutsch nach Koppmann (1877, 1899), am Seitenbild gelesen, mit Arbeitsübersetzung."
+  },
+  {
+   "id": "gotland",
+   "datei": "gotland",
+   "side": "orden",
+   "zk": "Gotland 1398",
+   "kurz": "Gotland 1398: der Deutsche Orden nimmt Visby",
+   "warum": "Der Hochmeister handelt allein, mit 84 Schiffen und 4000 Mann; Herzog Johann übergibt Visby als ‚offenes Schloss‘, und wer den Kaufmann geschädigt hat, muss bis Ostern fort; dazu die Parteischrift des Ordens und drei Chroniken, die sich nicht einig sind, ob die Vitalienbrüder vertrieben oder erschlagen wurden. Ostmitteldeutsch, Mittelniederdeutsch und Latein nach Koppmann (1877, 1899) und den Scriptores rerum Prussicarum (1866), am Seitenbild gelesen, mit Arbeitsübersetzung."
   }
  ],
  "planned": [
-  {
-   "id": "gotland",
-   "side": "orden",
-   "kurz": "Gotland 1398",
-   "warum": "Der Deutsche Orden vertreibt die Vitalienbrüder aus Visby; Rezess und drei Chroniken nebeneinander.",
-   "quelle": "Hanserecesse I.4, Nr. 437–441, S. 414–439; Scriptores rerum Prussicarum III, S. 216–218."
-  },
   {
    "id": "pfundgeld",
    "side": "hanse",

@@ -35,10 +35,12 @@
    "plate": "hr168"
   },
   {
-   "d": "1394",
+   "d": "1394–1397",
    "side": "vitalien",
    "titel": "Visby",
-   "text": "Die Vitalienbrüder setzen sich auf Gotland fest. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Visby fällt 1394 an die Leute König Albrechts. Nach dem Tod Herzog Erichs 1397 lässt Sven Sture, Hauptmann auf Gotland, an allen Küsten verkünden: Wer um die halbe Beute rauben will, findet Aufenthalt auf den Burgen der Insel.",
+   "cite": "#/text/gotland/bericht/1",
+   "citeLabel": "Gotland 1398 Bericht [1]"
   },
   {
    "d": "Mai–Juni 1395",
@@ -76,10 +78,30 @@
    "citeLabel": "Lübeck 1395 Fortsetzung [1]"
   },
   {
-   "d": "1398",
+   "d": "März 1398",
    "side": "orden",
    "titel": "Der Deutsche Orden auf Gotland",
-   "text": "Hochmeister Konrad von Jungingen landet mit einem Heer auf Gotland und vertreibt die Vitalienbrüder aus Visby. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Hochmeister Konrad von Jungingen schickt 84 Schiffe mit 4000 Mann und 400 Pferden nach Gotland. Die Burgen der Vitalienbrüder werden verbrannt, Visby wird genommen; wer mit Herzog Johann abzieht, geht frei, die übrigen werden nach dem Bericht des Ordens erschlagen.",
+   "cite": "#/text/gotland/bericht/3",
+   "citeLabel": "Gotland 1398 Bericht [3]",
+   "plate": "cartagotland"
+  },
+  {
+   "d": "5. April 1398",
+   "side": "orden",
+   "titel": "Visby wird ein offenes Schloss",
+   "text": "Herzog Johann von Mecklenburg öffnet Visby dem Orden. Wer den Kaufmann geschädigt hat, muss bis Ostern nach Sonnenuntergang fort, sonst wird er gerichtet; das Raubgut gehört den Beraubten.",
+   "cite": "#/text/gotland/urkunde/2",
+   "citeLabel": "Gotland 1398 Urkunde [2]",
+   "plate": "jungingen"
+  },
+  {
+   "d": "April 1398",
+   "side": "hanse",
+   "titel": "Rostock und Wismar ausgeschlossen",
+   "text": "Der Hansetag in Lübeck beschließt neue Friedekoggen, für die Lübeck und Preußen sorgen sollen; die Rostocker und Wismarer werden ‚buten besloten‘. Gotland aber gehört jetzt dem Orden.",
+   "cite": "#/text/gotland/chroniken/2",
+   "citeLabel": "Gotland 1398 Chroniken [2]"
   },
   {
    "d": "1400",

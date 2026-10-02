@@ -4,7 +4,7 @@
 const view = document.getElementById("view");
 const D = { mods: null, plates: null, timeline: null, compare: null, texts: {} };
 const SIDES = { hanse: "Die Städte der Hanse", vitalien: "Die Vitalienbrüder", kronen: "Königin und Könige", orden: "Der Deutsche Orden", rezeption: "Chronik und Legende" };
-const LANGS = { gml: "Mittelniederdeutsch", la: "Latein", de: "Deutsch", en: "Übersetzung" };
+const LANGS = { gml: "Mittelniederdeutsch", gmh: "Ostmitteldeutsch", la: "Latein", de: "Deutsch", en: "Übersetzung" };
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const side = s => `<span class="side ${s}">${esc(SIDES[s] || s)}</span>`;
@@ -98,7 +98,7 @@ async function reader([id, secId, unitN]) {
   const bilingual = sec.units.some(u => u.orig);
   const lang = bilingual ? langPref : "en";
   const langs = [...new Set(sec.units.filter(u => u.orig).map(u => u.lang || t.orig_sprache))];
-  const origName = langs.length === 1 ? (LANGS[langs[0]] || "Original") : langs.map(l => LANGS[l] || l).join(" oder ");
+  const origName = langs.length === 1 ? (LANGS[langs[0]] || "Original") : langs.length === 2 ? langs.map(l => LANGS[l] || l).join(" oder ") : "Original";
   view.innerHTML = `
     <p class="fine"><a href="#/texts">← Alle Texte</a></p>
     <span class="tag">${side(m.side)} ${esc(t.jahr)} · zitiert als ${esc(sec.zk)} [n]</span>

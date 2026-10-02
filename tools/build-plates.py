@@ -20,11 +20,15 @@ SOURCES = {
     # Wikimedia Commons (gemeinfrei)
     "lubeca": ("https://upload.wikimedia.org/wikipedia/commons/9/9c/Nuremberg_chronicles_f_265-66_%28Lubeca%29.jpg", None),
     "elbing": ("https://upload.wikimedia.org/wikipedia/commons/0/0f/Siegel_Elbing_1350.jpg", None),
+    "jungingen": ("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AGAD_Pieczec_Konrada_von_Jungingen_wielkiego_mistrza_zakonu_krzyzackiego.png/1280px-AGAD_Pieczec_Konrada_von_Jungingen_wielkiego_mistrza_zakonu_krzyzackiego.png", None),
+    "cartagotland": ("https://upload.wikimedia.org/wikipedia/commons/7/73/Carta_Marina_Gotland.jpeg", None),
     "stoewer": ("https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hansa_ships_of_the_XIVth_and_XVth_centuries.jpg/1920px-Hansa_ships_of_the_XIVth_and_XVth_centuries.jpg", None),
     # Editionsseiten (Internet Archive)
     "hr168": ("https://archive.org/download/hanserecesse12roppgoog/page/n209_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr258": ("https://archive.org/download/hanserecesse12roppgoog/page/n299_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr304": ("https://archive.org/download/hanserecesse12roppgoog/page/n345_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
+    "hr417": ("https://archive.org/download/hanserecesse12roppgoog/page/n458_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
+    "srp217": ("https://archive.org/download/bub_gb_qtftAAAAIAAJ/page/n223_w1800.jpg", (0.04, 0.03, 0.97, 0.97)),
     "detmar50": ("https://archive.org/download/bub_gb_oqgKAAAAIAAJ/page/n76_w1800.jpg", (0.04, 0.02, 0.98, 0.98)),
 }
 
@@ -117,16 +121,21 @@ def draw_map():
     return im
 
 
-def main():
+def main(only=None):
+    """Ohne Argumente alles bauen; mit Kennungen (z. B. hr417 karte) nur diese."""
     OUT.mkdir(parents=True, exist_ok=True)
     for pid, (url, crop) in SOURCES.items():
+        if only and pid not in only:
+            continue
         im = Image.open(io.BytesIO(fetch(url))).convert("RGB")
         if crop:
             w, h = im.size
             im = im.crop((int(crop[0] * w), int(crop[1] * h), int(crop[2] * w), int(crop[3] * h)))
         save(im, pid); print(pid, im.size)
-    save(draw_map(), "karte"); print("karte")
+    if not only or "karte" in only:
+        save(draw_map(), "karte"); print("karte")
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(set(sys.argv[1:]) or None)
