@@ -1,0 +1,27 @@
+{
+  "upload_type": "dataset",
+  "title": "Die Vitalienbrüder und die Hanse: Akten, Chroniken und Rechnungen, 1389–1401",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein Quellenapparat zu den Vitalienbrüdern und der Hanse, 1389&ndash;1401: Wie wird aus einem Kaperbrief ein Verbrechen? Die These, an den Texten zu prüfen: Die Vitalienbrüder kaperten zuerst im Auftrag eines Krieges, für Mecklenburg und das belagerte Stockholm; der Frieden von 1395 machte dieselben Fahrten zu Seeraub. Die Städte der Hanse, Lübeck voran, bekämpften sie mit Friedeschiffen, die sie über einen Pfundzoll bezahlten, und ließen 1400 und 1401 die Gefangenen in Hamburg enthaupten. Die Akten wissen von Störtebeker weniger als die Legende.</p><p>Acht Module aus gemeinfreien Editionen, das mittelniederdeutsche, lateinische, ostmitteldeutsche oder mittelniederländische Original neben einer neuhochdeutschen Arbeitsübersetzung, jeder Auszug am Seitenbild gelesen: der Flottenbeschluss von Lübeck 1394; der Frieden von Lindholm 1395 und Stockholm als Pfand; der Lübecker Hansetag vom September 1395 mit Detmars Chronik; Gotland 1398 mit Herzog Johanns Urkunde, der Parteischrift des Hochmeisters und drei Chroniken (alle Hanserecesse I.4, 1877; Chroniken der deutschen Städte 26, 1899; Scriptores rerum Prussicarum III, 1866); Friedeschiffe und Pfundgeld 1398&ndash;1399 mit Proviantliste und Danziger Abrechnung; der Zug der Städte nach Emden 1400; der Vertrag Herzog Albrechts von Holland mit &bdquo;Johan Stortebeker&ldquo; und 113 anderen (August 1400); und Helgoland und die Hinrichtungen in den Hamburger Kämmereirechnungen (Koppmann 1869, 1873), der Rufus-Chronik (Chroniken der deutschen Städte 28, 1902) und den Hamburgischen Chroniken (Lappenberg 1861). Mit Zeitleiste, einer Vergleichsseite zu dreizehn Fragen, einundzwanzig Tafeln, einer Karte und einer Liste dessen, was geprüft und nicht aufgenommen wurde.</p><p>Begleitspiel: Vitalienbrüder, gespielt als Lübecker Rat (https://vitalienbrueder.netlify.app/).</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen, Arbeitsübersetzungen und abgeleitete Daten CC0 1.0 &mdash; siehe LICENSES.md. Live: https://die-vitalienbrueder-und-die-hanse.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Vitalienbrüder",
+    "Hanse",
+    "Klaus Störtebeker",
+    "Lübeck",
+    "Hamburg",
+    "Seeraub",
+    "Kaperei",
+    "Deutscher Orden",
+    "Gotland",
+    "Hanserecesse",
+    "Mittelniederdeutsch",
+    "digital humanities"
+  ]
+}

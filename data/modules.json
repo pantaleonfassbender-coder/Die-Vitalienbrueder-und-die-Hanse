@@ -66,5 +66,41 @@
   }
  ],
  "planned": [],
- "missing": []
+ "missing": [
+  {
+   "id": "margarete",
+   "side": "kronen",
+   "kurz": "Die Briefe Königin Margaretes",
+   "warum": "Nicht aufgenommen: Ihre Stimme steht in den Verhandlungen von Lindholm und im Brief des Hochmeisters an sie (Pfundgeld 1399 Briefe [1]); ihre übrigen Schreiben an die Städte betreffen überwiegend Termine und Geleit für Tagfahrten und tragen zu den Fragen dieser Site wenig bei.",
+   "quelle": "Hanserecesse I.4 (1877), Nr. 153, 405, 522, 582."
+  },
+  {
+   "id": "korner",
+   "side": "rezeption",
+   "kurz": "Hermann Korners lateinische Chronik",
+   "warum": "Nicht als eigenes Modul aufgenommen: Korner schrieb in Lübeck eine Generation später und folgt für diese Jahre weitgehend Detmar. Wo er etwas hinzufügt, steht es in den Anmerkungen (Lübeck 1395 Detmar [1], [2]; Gotland 1398 Chroniken [2]).",
+   "quelle": "Die Chronica novella des Hermann Korner, hg. von Jakob Schwalm (Göttingen 1895); Parallelen im Apparat der Chroniken der deutschen Städte 26."
+  },
+  {
+   "id": "lied",
+   "side": "rezeption",
+   "kurz": "Das Lied von Störtebeker und Gödeke Michael",
+   "warum": "Nicht aufgenommen, Kandidat für eine Stufe 2: Das Lied gehört zur Legende, nicht zu den Akten, und ist erst in Drucken des 16. Jahrhunderts überliefert. Diese Stufe endet mit den Rechnungen und Chroniken der Jahre um 1400 und dem Flugblatt von 1701 als Tafel.",
+   "quelle": "Die historischen Volkslieder der Deutschen, hg. von Rochus von Liliencron, Bd. 1 (Leipzig 1865)."
+  },
+  {
+   "id": "bergen",
+   "side": "vitalien",
+   "kurz": "Der Überfall auf Bergen 1393 in englischen Quellen",
+   "warum": "Nicht aufgenommen: Das Datum nach englischen Angaben ist in der Anmerkung zu Detmar genannt (Lübeck 1395 Detmar [2]); die englischen Schadensklagen gehören zu den Beziehungen Englands mit der Hanse und würden ein eigenes Modul in englischer Sprache verlangen.",
+   "quelle": "Hanserecesse I.4 (1877), Einleitung und Akten zu England."
+  },
+  {
+   "id": "hr5",
+   "side": "hanse",
+   "kurz": "Hanserecesse Bd. 5 (1401–1410)",
+   "warum": "Nicht aufgenommen: Der Band enthält, soweit geprüft, nichts zu Helgoland und den Hinrichtungen von 1400/01; der einzige Scan ist für eine Lesung am Seitenbild schlecht. Die Hamburger Rechnungen und Chroniken tragen das Ende der Geschichte.",
+   "quelle": "Hanserecesse, 1. Abt., Bd. 5, hg. von Karl Koppmann (Leipzig 1880)."
+  }
+ ]
 }

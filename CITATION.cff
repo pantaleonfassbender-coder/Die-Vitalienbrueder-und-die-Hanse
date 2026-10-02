@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Die Vitalienbrüder und die Hanse: Akten, Chroniken und Rechnungen, 1389–1401"
+message: "Wer diesen Apparat nutzt, zitiere ihn wie unten angegeben – und für jede zitierte Stelle den gedruckten Text."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Die-Vitalienbrueder-und-die-Hanse"
+url: "https://die-vitalienbrueder-und-die-hanse.netlify.app/"
+abstract: >-
+  Ein Quellenapparat zu den Vitalienbrüdern und der Hanse, 1389-1401, aus
+  gemeinfreien Editionen, das Original neben einer neuhochdeutschen
+  Arbeitsübersetzung, jeder Auszug am Seitenbild gelesen: Hanserecesse I.4
+  (Koppmann 1877) zu Flottenbeschluss 1394, Lindholm 1395, dem Hansetag vom
+  September 1395, Gotland 1398, Friedeschiffen und Pfundgeld, Emden 1400 und
+  dem Vertrag Hollands mit Johan Stortebeker; Detmar und seine Fortsetzung
+  (Chroniken der deutschen Städte 26), Thorner Annalen und Posilge
+  (Scriptores rerum Prussicarum III); die Hamburger Kämmereirechnungen
+  (Koppmann 1869, 1873), Rufus (Chroniken der deutschen Städte 28) und die
+  Hamburgischen Chroniken (Lappenberg 1861). Mit Zeitleiste, Vergleichsseite,
+  Tafeln und einer Liste des Nicht-Aufgenommenen. Begleitspiel: Vitalienbrüder.
+keywords:
+  - Vitalienbrüder
+  - Hanse
+  - Klaus Störtebeker
+  - Lübeck
+  - Seeraub
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: "2026-10-02"

@@ -4,7 +4,7 @@ Ein Quellenapparat zu den Vitalienbrüdern und der Hanse, 1389–1401: Wie wird 
 
 Die These, an den Texten zu prüfen: Die Vitalienbrüder kaperten zuerst im Auftrag eines Krieges, für Mecklenburg und das belagerte Stockholm; der Frieden von 1395 machte dieselben Fahrten zu Seeraub. Die Städte der Hanse, Lübeck voran, bekämpften sie mit Friedeschiffen, die sie über einen Pfundzoll bezahlten, und ließen 1400 und 1401 die Gefangenen in Hamburg enthaupten. Die Akten wissen von Störtebeker weniger als die Legende.
 
-Stufe 1 umfasst acht Module. Abgedruckt:
+Stufe 1 ist mit acht Modulen abgeschlossen; was geprüft und nicht aufgenommen wurde, nennt die Seite „Texte“. Abgedruckt:
 
 - **Der Flottenbeschluss von Lübeck (3. März 1394)** — Hanserecesse I.4 (Koppmann 1877), Nr. 192, S. 165–172, am Seitenbild gelesen, mit Arbeitsübersetzung.
 - **Lindholm 1395 und Stockholm als Pfand** — Hanserecesse I.4, Nr. 261 und 264, S. 248–259, am Seitenbild gelesen, mit Arbeitsübersetzung.
@@ -41,3 +41,7 @@ python tools/build-plates.py
 Ein beliebiger statischer Server, z. B. `python -m http.server 8150`.
 
 Lizenzen: siehe `LICENSES.md`.
+
+## Zitieren
+
+Fassbender, Pantaleon. *Die Vitalienbrüder und die Hanse: Akten, Chroniken und Rechnungen, 1389–1401.* 2026. DOI folgt mit Version 1.0.0. Bitte für jede zitierte Stelle auch den gedruckten Text angeben.
