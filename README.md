@@ -1,5 +1,7 @@
 # Die Vitalienbrüder und die Hanse
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23097559.svg)](https://doi.org/10.5281/zenodo.23097559)
+
 Ein Quellenapparat zu den Vitalienbrüdern und der Hanse, 1389–1401: Wie wird aus einem Kaperbrief ein Verbrechen? Gemeinfreie Quellen im mittelniederdeutschen oder lateinischen Original neben einer neuhochdeutschen Arbeitsübersetzung, eine Zeitleiste mit Verweisen in die Texte, Vergleiche und Tafeln.
 
 Die These, an den Texten zu prüfen: Die Vitalienbrüder kaperten zuerst im Auftrag eines Krieges, für Mecklenburg und das belagerte Stockholm; der Frieden von 1395 machte dieselben Fahrten zu Seeraub. Die Städte der Hanse, Lübeck voran, bekämpften sie mit Friedeschiffen, die sie über einen Pfundzoll bezahlten, und ließen 1400 und 1401 die Gefangenen in Hamburg enthaupten. Die Akten wissen von Störtebeker weniger als die Legende.
@@ -44,4 +46,4 @@ Lizenzen: siehe `LICENSES.md`.
 
 ## Zitieren
 
-Fassbender, Pantaleon. *Die Vitalienbrüder und die Hanse: Akten, Chroniken und Rechnungen, 1389–1401.* 2026. DOI folgt mit Version 1.0.0. Bitte für jede zitierte Stelle auch den gedruckten Text angeben.
+Fassbender, Pantaleon. *Die Vitalienbrüder und die Hanse: Akten, Chroniken und Rechnungen, 1389–1401.* 2026. https://doi.org/10.5281/zenodo.23097559 (alle Versionen; Version 1.0.0: https://doi.org/10.5281/zenodo.23097560). Bitte für jede zitierte Stelle auch den gedruckten Text angeben.
