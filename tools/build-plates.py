@@ -27,6 +27,8 @@ SOURCES = {
     "hr168": ("https://archive.org/download/hanserecesse12roppgoog/page/n209_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr258": ("https://archive.org/download/hanserecesse12roppgoog/page/n299_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr304": ("https://archive.org/download/hanserecesse12roppgoog/page/n345_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
+    "hr421": ("https://archive.org/download/hanserecesse12roppgoog/page/n462_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
+    "hr491": ("https://archive.org/download/hanserecesse12roppgoog/page/n532_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr417": ("https://archive.org/download/hanserecesse12roppgoog/page/n458_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "srp217": ("https://archive.org/download/bub_gb_qtftAAAAIAAJ/page/n223_w1800.jpg", (0.04, 0.03, 0.97, 0.97)),
     "detmar50": ("https://archive.org/download/bub_gb_oqgKAAAAIAAJ/page/n76_w1800.jpg", (0.04, 0.02, 0.98, 0.98)),

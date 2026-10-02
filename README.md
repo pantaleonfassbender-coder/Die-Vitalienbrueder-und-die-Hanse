@@ -10,10 +10,11 @@ Stufe 1 ist in Arbeit. Abgedruckt:
 - **Lindholm 1395 und Stockholm als Pfand** — Hanserecesse I.4, Nr. 261 und 264, S. 248–259, am Seitenbild gelesen, mit Arbeitsübersetzung.
 - **Der Lübecker Hansetag vom September 1395, mit Detmar** — Hanserecesse I.4, Nr. 308 und 309, S. 303–306; Detmar-Chronik, Chroniken der deutschen Städte 26 (Koppmann 1899), §§ 974–975, 1009, 1019; am Seitenbild gelesen, mit Arbeitsübersetzung.
 - **Gotland 1398: der Deutsche Orden nimmt Visby** — Hanserecesse I.4, Nr. 434, 436–438, S. 412–417; Scriptores rerum Prussicarum III (1866), S. 217–218 (Thorner Annalen, Posilge); Detmar-Fortsetzung §§ 1061–1063; am Seitenbild gelesen, mit Arbeitsübersetzung.
+- **Friedeschiffe und Pfundgeld, 1398–1399** — Hanserecesse I.4, Nr. 441, 513, 525, 536, 656; am Seitenbild gelesen, mit Arbeitsübersetzung.
 
-Zwölf Tafeln: Schedels Lübeck (1493), das Elbinger Koggensiegel (1350), das Siegel Konrads von Jungingen (1404), Gotland auf der Carta marina (1539), Stöwers hansische Schiffe (1902), sechs Editionsseiten und eine Karte der Orte.
+Vierzehn Tafeln: Schedels Lübeck (1493), das Elbinger Koggensiegel (1350), das Siegel Konrads von Jungingen (1404), Gotland auf der Carta marina (1539), Stöwers hansische Schiffe (1902), acht Editionsseiten und eine Karte der Orte.
 
-Geplant (siehe `data/modules.json`): Friedeschiffe und Pfundgeld, Emden 1400, der Vertrag Hollands mit Störtebeker 1400, Helgoland und die Hinrichtungen 1400/01.
+Geplant (siehe `data/modules.json`): Emden 1400, der Vertrag Hollands mit Störtebeker 1400, Helgoland und die Hinrichtungen 1400/01.
 
 Das Begleitspiel *Vitalienbrüder* (https://vitalienbrueder.netlify.app/) spielt den Lübecker Rat.
 
@@ -26,6 +27,7 @@ python tools/build-flotte1394.py
 python tools/build-lindholm.py
 python tools/build-luebeck1395.py
 python tools/build-gotland.py
+python tools/build-pfundgeld.py
 python tools/build-plates.py
 ```
 

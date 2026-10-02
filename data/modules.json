@@ -31,16 +31,17 @@
    "zk": "Gotland 1398",
    "kurz": "Gotland 1398: der Deutsche Orden nimmt Visby",
    "warum": "Der Hochmeister handelt allein, mit 84 Schiffen und 4000 Mann; Herzog Johann übergibt Visby als ‚offenes Schloss‘, und wer den Kaufmann geschädigt hat, muss bis Ostern fort; dazu die Parteischrift des Ordens und drei Chroniken, die sich nicht einig sind, ob die Vitalienbrüder vertrieben oder erschlagen wurden. Ostmitteldeutsch, Mittelniederdeutsch und Latein nach Koppmann (1877, 1899) und den Scriptores rerum Prussicarum (1866), am Seitenbild gelesen, mit Arbeitsübersetzung."
+  },
+  {
+   "id": "pfundgeld",
+   "datei": "pfundgeld",
+   "side": "hanse",
+   "zk": "Pfundgeld",
+   "kurz": "Friedeschiffe und Pfundgeld, 1398–1399",
+   "warum": "Wie der Rat den Seekrieg bezahlt: acht Friedeschiffe und vier Pfennig von sechs Mark, der Streit mit dem Hochmeister, der das Pfundgeld in Preußen selbst nimmt, Rostock und Wismar, die den Schaden ‚nicht genossen‘ haben, eine Proviantliste bis zum Korb Feigen und Danzigs Rechnung über 523½ Mark. Mittelniederdeutsch und Ostmitteldeutsch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
   }
  ],
  "planned": [
-  {
-   "id": "pfundgeld",
-   "side": "hanse",
-   "kurz": "Friedeschiffe und Pfundgeld",
-   "warum": "Wie der Rat den Seekrieg bezahlt: Beschlüsse und die Abrechnung des Pfundgelds.",
-   "quelle": "Hanserecesse I.4, Nr. 513, 525, 536, 656 (S. 591)."
-  },
   {
    "id": "emden",
    "side": "hanse",

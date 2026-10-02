@@ -135,6 +135,72 @@
      ]
     }
    ]
+  },
+  {
+   "id": "nichtgenossen",
+   "titel": "Nicht genossen",
+   "frage": "1395 und 1398: Wie Rostock und Wismar dem Schadensersatz ausweichen.",
+   "note": "1395 verteidigt König Albrecht die beiden Städte: Was sie getan hätten, sei um seiner Befreiung willen geschehen. 1398, Albrecht ist frei und Gotland verloren, verteidigen sie sich selbst, ohne ihn: Sie hätten den Schaden nicht genossen und seien an Rat, Tat und Mitwissen unschuldig. Aus der Rechtfertigung durch den Krieg ist ein Bestreiten der Beteiligung geworden. Beide Male antworten die Städte gleich: Ihnen stehe nicht zu, fremden Schaden zu erlassen; und beide Male wird vertagt.",
+   "voices": [
+    {
+     "text": "luebeck1395",
+     "sec": "tag",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "pfundgeld",
+     "sec": "rezess",
+     "n": [
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proviant",
+   "titel": "Vom Speck zur Feige",
+   "frage": "Zwei Proviantlisten: für die Besatzung Stockholms 1395 und für die Friedeschiffe 1399.",
+   "note": "Beide Listen zeigen, wovon die Kriegsleute der Städte lebten: Mehl, Bier, Speck, Fleisch, Stockfisch und Hering. Beide enthalten aber auch Dinge aus dem Süden, 1395 Reis, Mandeln und Baumöl, 1399 Öl, Landwein und einen Korb Feigen. Die preußische Liste nennt den Vorrat ‚vitalia‘: dasselbe Wort, nach dem sich die Vitalienbrüder nannten.",
+   "voices": [
+    {
+     "text": "lindholm",
+     "sec": "stockholm",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "pfundgeld",
+     "sec": "rechnung",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geleit",
+   "titel": "Geleit, wer niemandem geschadet hat",
+   "frage": "1395 und 1398: dieselbe Regel für Stockholm und für Sven Sture.",
+   "note": "1395 raten die Preußen den Hauptleuten in Stockholm, nur den Vitalienbrüdern Geleit zu geben, die seit dem Frieden den Kaufmann nicht geschädigt haben. 1398 verteidigt sich Stralsund, es habe Sven Sture auf Bitten der Königin Geleit gegeben, ‚weil er dem Kaufmann damals noch keinen Schaden getan hatte‘. Die Grenze zwischen Kriegsmann und Seeräuber wird an dieser einen Frage gezogen: an wem er sich vergriffen hat.",
+   "voices": [
+    {
+     "text": "luebeck1395",
+     "sec": "stockholm",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "pfundgeld",
+     "sec": "rezess",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }

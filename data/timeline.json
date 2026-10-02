@@ -96,12 +96,30 @@
    "plate": "jungingen"
   },
   {
-   "d": "April 1398",
+   "d": "12. April 1398",
    "side": "hanse",
    "titel": "Rostock und Wismar ausgeschlossen",
-   "text": "Der Hansetag in Lübeck beschließt neue Friedekoggen, für die Lübeck und Preußen sorgen sollen; die Rostocker und Wismarer werden ‚buten besloten‘. Gotland aber gehört jetzt dem Orden.",
-   "cite": "#/text/gotland/chroniken/2",
-   "citeLabel": "Gotland 1398 Chroniken [2]"
+   "text": "Der Hansetag in Lübeck beschließt acht Friedeschiffe und ein neues Pfundgeld, vier Pfennig von sechs Mark. Rostock und Wismar, vor die Städte geladen, geben den Schaden zu, haben ihn aber ‚nicht genossen‘ und können ihn nicht ersetzen; die Sache wird vertagt. Preußen stimmt dem Pfundgeld nicht zu, weil der Hochmeister es selbst erhebt.",
+   "cite": "#/text/pfundgeld/rezess/6",
+   "citeLabel": "Pfundgeld 1398 Rezess [6]",
+   "plate": "hr421"
+  },
+  {
+   "d": "Frühjahr 1399",
+   "side": "hanse",
+   "titel": "Weniger Volk, mehr Rechnung",
+   "text": "Lübeck will seinen Hauptleuten befehlen, das Kriegsvolk auf See zu verringern, wo es nötig wird. Elbing übergibt den Friedeschiffen den Proviant aus Gotland, vom Schiffsbier bis zum Korb Feigen.",
+   "cite": "#/text/pfundgeld/briefe/2",
+   "citeLabel": "Pfundgeld 1399 Briefe [2]",
+   "plate": "hr491"
+  },
+  {
+   "d": "18. Mai 1399",
+   "side": "hanse",
+   "titel": "Danzig rechnet ab",
+   "text": "Danzig legt den Städten seine Auslagen seit 1391 vor, Gesandtenreisen, Pferde, die Kost gefangener Seeräuber, und verlangt 523½ Mark aus dem Pfundgeld zurück.",
+   "cite": "#/text/pfundgeld/rechnung/3",
+   "citeLabel": "Pfundgeld 1399 Rechnung [3]"
   },
   {
    "d": "1400",
