@@ -7,15 +7,19 @@ Die These, an den Texten zu prüfen: Die Vitalienbrüder kaperten zuerst im Auft
 Stufe 1 ist in Arbeit. Abgedruckt:
 
 - **Der Flottenbeschluss von Lübeck (3. März 1394)** — Hanserecesse I.4 (Koppmann 1877), Nr. 192, S. 165–172, am Seitenbild gelesen, mit Arbeitsübersetzung.
+- **Lindholm 1395 und Stockholm als Pfand** — Hanserecesse I.4, Nr. 261 und 264, S. 248–259, am Seitenbild gelesen, mit Arbeitsübersetzung.
 
-Geplant (siehe `data/modules.json`): Lindholm 1395 und Stockholm als Pfand, der Hansetag vom September 1395 mit Detmar, Gotland 1398, Friedeschiffe und Pfundgeld, Emden 1400, der Vertrag Hollands mit Störtebeker 1400, Helgoland und die Hinrichtungen 1400/01.
+Geplant (siehe `data/modules.json`): der Hansetag vom September 1395 mit Detmar, Gotland 1398, Friedeschiffe und Pfundgeld, Emden 1400, der Vertrag Hollands mit Störtebeker 1400, Helgoland und die Hinrichtungen 1400/01.
 
-Das Begleitspiel *Vitalienbrüder* spielt den Lübecker Rat.
+Das Begleitspiel *Vitalienbrüder* (https://vitalienbrueder.netlify.app/) spielt den Lübecker Rat.
+
+Online: https://die-vitalienbrueder-und-die-hanse.netlify.app/
 
 ## Daten bauen
 
 ```
 python tools/build-flotte1394.py
+python tools/build-lindholm.py
 ```
 
 ## Lokal starten

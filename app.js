@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>Was wissen die Akten von Störtebeker?</h3>
       <p>Weniger als die Legende. Ein Vertrag des Herzogs von Holland vom August 1400 nennt einen „Johan Stortebeker“; Hamburger Chroniken nennen Klaus Störtebeker und Godeke Michels unter den Enthaupteten von 1401. Die Rechnungen nennen keine Namen, nur Zahlen.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
-      <p>Ein Begleitspiel, <em>Vitalienbrüder</em>, ist in Vorbereitung: Als Lübecker Rat rüstet man Friedeschiffe aus, erhebt Pfundgeld und verhandelt mit Königen und Fürsten. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
+      <p>Ein Begleitspiel, <a href="https://vitalienbrueder.netlify.app/"><em>Vitalienbrüder</em></a>, ist in Vorbereitung: Als Lübecker Rat rüstet man Friedeschiffe aus, erhebt Pfundgeld und verhandelt mit Königen und Fürsten. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
   </div>`;
 }
 

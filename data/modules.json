@@ -7,16 +7,17 @@
    "zk": "Flotte 1394",
    "kurz": "Der Flottenbeschluss von Lübeck (3. März 1394)",
    "warum": "Der Hansetag beschließt, die See vor den Seeräubern zu befrieden: Koggen und Bewaffnete jeder Stadt, ein Geleitzug zu Pfingsten durch den Øresund, ein Pfundgeld auf die Ladung, und Mecklenburgs Versprechen, die Häfen zu sperren. Mittelniederdeutsch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
+  },
+  {
+   "id": "lindholm",
+   "datei": "lindholm",
+   "side": "kronen",
+   "zk": "Lindholm",
+   "kurz": "Lindholm 1395 und Stockholm als Pfand",
+   "warum": "Der Frieden zwischen Margarete und Albrecht: Visby bleibt dem König, wer in der See ist, muss sie bis zum St.-Jakobs-Tag räumen, sonst wird er gerichtet, und sieben Städte nehmen Stockholm als Pfand. Mittelniederdeutsch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
   }
  ],
  "planned": [
-  {
-   "id": "lindholm",
-   "side": "kronen",
-   "kurz": "Lindholm 1395 und Stockholm als Pfand",
-   "warum": "Der Frieden zwischen Margarete und Albrecht von Mecklenburg; Stockholm wird den Städten verpfändet. Wer jetzt noch kapert, ist Seeräuber.",
-   "quelle": "Hanserecesse I.4, Nr. 261–274, 284–288, S. 248–285."
-  },
   {
    "id": "luebeck1395",
    "side": "hanse",

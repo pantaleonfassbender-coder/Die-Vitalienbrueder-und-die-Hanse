@@ -1,4 +1,28 @@
 {
  "lede": "Dieselben Ereignisse in Beschluss, Chronik und Rechnung. Jede Seite stellt die Stellen nebeneinander, in Übersetzung; jede führt zu ihrem Ort im Text, mit dem Original daneben.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "haefen",
+   "titel": "Die Häfen schließen",
+   "frage": "1394 und 1395: dasselbe Versprechen, zweimal.",
+   "note": "1394 versprechen Mecklenburg, Rostock und Wismar dem Hansetag, niemanden aus ihren Häfen zu lassen, der Kaufleute ‚aus Freundesland in Freundesland‘ schädigt; Feinde dürfen sie weiter schädigen. 1395 wird das Versprechen allgemein: Rostock, Wismar, Visby und Stockholm sollen niemanden auslassen, der die Königin oder den Kaufmann schädigt. Zwischen beiden Sätzen liegt der Frieden, der den Kaperkrieg beendet und die Kaperer zu Seeräubern macht.",
+   "voices": [
+    {
+     "text": "flotte1394",
+     "sec": "tag",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "lindholm",
+     "sec": "see",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
+  }
+ ]
 }
