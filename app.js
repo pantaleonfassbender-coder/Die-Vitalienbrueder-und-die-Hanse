@@ -63,9 +63,9 @@ function overview() {
     <div class="panel"><h3>Was konnte der Lübecker Rat tun?</h3>
       <p>Schiffe ausrüsten und Mannschaften stellen, die Kosten mit einem Pfundzoll auf alle Waren umlegen, mit Königin Margarete, Mecklenburg und dem Deutschen Orden verhandeln, und entscheiden, wem man die See anvertraut.</p></div>
     <div class="panel"><h3>Was wissen die Akten von Störtebeker?</h3>
-      <p>Weniger als die Legende. Ein Vertrag des Herzogs von Holland vom August 1400 nennt einen „Johan Stortebeker“; Hamburger Chroniken nennen Klaus Störtebeker und Godeke Michels unter den Enthaupteten von 1401. Die Rechnungen nennen keine Namen, nur Zahlen.</p></div>
+      <p>Weniger als die Legende. Ein Vertrag des Herzogs von Holland vom August 1400 nennt einen „Johan Stortebeker“; Hamburger Chroniken nennen Klaus Störtebeker und Godeke Michels unter den Enthaupteten von 1401. Die Rechnungen nennen fast nur Zahlen, und einmal das Schiff Godeke Michels', dessen Baumwolle Hamburg 1402 verkaufte.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
-      <p>Ein Begleitspiel, <a href="https://vitalienbrueder.netlify.app/"><em>Vitalienbrüder</em></a>, ist in Vorbereitung: Als Lübecker Rat rüstet man Friedeschiffe aus, erhebt Pfundgeld und verhandelt mit Königen und Fürsten. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
+      <p>Ja: Im Begleitspiel <a href="https://vitalienbrueder.netlify.app/"><em>Vitalienbrüder</em></a> (auch <a href="https://leofassb.itch.io/vitalienbrueder">auf itch.io</a>) rüstet man als Lübecker Rat Friedeschiffe aus, erhebt Pfundgeld, verhandelt mit den Städten, Preußen, der Königin und Mecklenburg und entscheidet, ob Lübeck oder der Orden Gotland nimmt. Jede Karte verweist auf eine Stelle, die hier abgedruckt ist.</p></div>
   </div>`;
 }
 

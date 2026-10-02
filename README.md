@@ -20,7 +20,7 @@ Stufe 1 ist mit acht Modulen abgeschlossen; was geprüft und nicht aufgenommen w
 Einundzwanzig Tafeln: Schedels Lübeck (1493), das Elbinger Koggensiegel (1350), das Siegel Konrads von Jungingen (1404), Gotland auf der Carta marina (1539), Emden und Stavoren bei Braun und Hogenberg, das Hamburger Flugblatt von 1701, Stöwers hansische Schiffe (1902), zwölf Editionsseiten und eine Karte der Orte.
 
 
-Das Begleitspiel *Vitalienbrüder* (https://vitalienbrueder.netlify.app/) spielt den Lübecker Rat.
+Das Begleitspiel *Vitalienbrüder* (https://vitalienbrueder.netlify.app/, auch auf itch.io: https://leofassb.itch.io/vitalienbrueder) spielt den Lübecker Rat.
 
 Online: https://die-vitalienbrueder-und-die-hanse.netlify.app/
 
