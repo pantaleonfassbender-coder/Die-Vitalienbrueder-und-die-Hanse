@@ -39,23 +39,25 @@
    "zk": "Pfundgeld",
    "kurz": "Friedeschiffe und Pfundgeld, 1398–1399",
    "warum": "Wie der Rat den Seekrieg bezahlt: acht Friedeschiffe und vier Pfennig von sechs Mark, der Streit mit dem Hochmeister, der das Pfundgeld in Preußen selbst nimmt, Rostock und Wismar, die den Schaden ‚nicht genossen‘ haben, eine Proviantliste bis zum Korb Feigen und Danzigs Rechnung über 523½ Mark. Mittelniederdeutsch und Ostmitteldeutsch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
-  }
- ],
- "planned": [
+  },
   {
    "id": "emden",
+   "datei": "emden",
    "side": "hanse",
-   "kurz": "Emden 1400",
-   "warum": "Der Bericht der Hauptleute über den Zug nach Ostfriesland.",
-   "quelle": "Hanserecesse I.4, Nr. 591, 598, 602 (S. 538–550)."
+   "zk": "Emden 1400",
+   "kurz": "Emden 1400: der Zug der Städte nach Ostfriesland",
+   "warum": "Der Bericht der Hauptleute: 80 Vitalienbrüder in der Oster-Ems getötet, 25 in Emden enthauptet, darunter der Bastard des Grafen von Oldenburg; Häuptlinge, die Burgen übergeben; ein Streit um sechs Tonnen Butter; und 25 Friesen, die gegen ihren Eid begnadigt werden. Mittelniederdeutsch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
   },
   {
    "id": "holland",
+   "datei": "holland",
    "side": "vitalien",
-   "kurz": "Der Vertrag Hollands mit Störtebeker (August 1400)",
-   "warum": "Herzog Albrecht von Holland schließt einen Vertrag mit ‚Johan Stortebeker‘ und anderen: der urkundliche Störtebeker.",
-   "quelle": "Hanserecesse I.4, Nr. 605, S. 552."
-  },
+   "zk": "Holland 1400",
+   "kurz": "Der Vertrag Hollands mit Störtebeker, 1400",
+   "warum": "Herzog Albrecht von Holland nimmt 114 Vitalienbrüder in seine Freundschaft, unter ihren Wortführern ‚Johan Stortebeker‘, mit freier Beute gegen Friesen, Groninger und Hamburger; im November 150 weitere, mit Stavoren als Hafen. Mittelniederländisch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
+  }
+ ],
+ "planned": [
   {
    "id": "helgoland",
    "side": "rezeption",

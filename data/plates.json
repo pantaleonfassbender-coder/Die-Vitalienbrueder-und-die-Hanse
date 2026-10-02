@@ -1,6 +1,6 @@
 {
  "lede": "Was die Zeit selbst von Stadt und Schiff zeigt, die Seiten, aus denen die Texte gelesen sind, und wo es geschah. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, die sie zeigen.",
- "credit": "Tafeln: Holzschnitt der Schedelschen Weltchronik (Nürnberg 1493), das Siegel der Stadt Elbing (1350), das Siegel Konrads von Jungingen (1404, Archiwum Główne Akt Dawnych), Gotland auf der Carta marina des Olaus Magnus (1539) und Willy Stöwers Zeichnung hansischer Schiffe (1902), aus gemeinfreien Reproduktionen über Wikimedia Commons; Seiten der hier gelesenen Editionen (Hanserecesse I.4, 1877; Scriptores rerum Prussicarum III, 1866; Chroniken der deutschen Städte 26, 1899) aus dem Internet Archive; und eine für diese Site gezeichnete Karte mit Küstenlinien aus Natural Earth. Alles gemeinfrei oder CC0; für die Site verkleinert.",
+ "credit": "Tafeln: Holzschnitt der Schedelschen Weltchronik (Nürnberg 1493), das Siegel der Stadt Elbing (1350), das Siegel Konrads von Jungingen (1404, Archiwum Główne Akt Dawnych), Gotland auf der Carta marina des Olaus Magnus (1539), Stadtansichten von Braun und Hogenberg (1575, 1635) und Willy Stöwers Zeichnung hansischer Schiffe (1902), aus gemeinfreien Reproduktionen über Wikimedia Commons; Seiten der hier gelesenen Editionen (Hanserecesse I.4, 1877; Scriptores rerum Prussicarum III, 1866; Chroniken der deutschen Städte 26, 1899) aus dem Internet Archive; und eine für diese Site gezeichnete Karte mit Küstenlinien aus Natural Earth. Alles gemeinfrei oder CC0; für die Site verkleinert.",
  "plates": [
   {
    "id": "karte",
@@ -92,6 +92,20 @@
    "side": "rezeption",
    "caption": "Scriptores rerum Prussicarum III, S. 217: links die Thorner Annalen, in der Mitte Detmars Fortsetzung, rechts Johann von Posilge, alle drei zum Zug nach Gotland 1398. Die Edition von 1866 legt die Überlieferungen nebeneinander, wie es die Vergleichsseite dieser Site tut (Gotland 1398 Chroniken).",
    "source": "Scriptores rerum Prussicarum, Bd. 3, hg. von Theodor Hirsch, Max Toeppen und Ernst Strehlke (Leipzig 1866), S. 217; Internet Archive (bub_gb_qtftAAAAIAAJ)."
+  },
+  {
+   "id": "emden1575",
+   "titel": "Emden",
+   "side": "hanse",
+   "caption": "Emden an der Ems, etwa 175 Jahre nach dem Zug der Städte, in der Stadtansicht von Braun und Hogenberg: die Burg, die Große Kirche und der Hafen, in dem im Mai 1400 die Schiffe Lübecks und Hamburgs lagen. Hier wurden am 11. Mai 1400 fünfundzwanzig Vitalienbrüder enthauptet (Emden 1400 Kampf [3]).",
+   "source": "Georg Braun und Franz Hogenberg, Civitates orbis terrarum, Bd. 2 (Köln 1575); Exemplar der Polnischen Nationalbibliothek, über Wikimedia Commons."
+  },
+  {
+   "id": "stavoren",
+   "titel": "Stavoren und die friesischen Städte",
+   "side": "vitalien",
+   "caption": "Bolsward, Stavoren, Harlingen und Hindeloopen auf einem Blatt von Braun und Hogenberg. Stavoren an der Zuiderzee gab Herzog Albrecht im November 1400 den Vitalienbrüdern als Hafen (Holland 1400 Staveren [1]).",
+   "source": "Georg Braun und Franz Hogenberg, Civitates orbis terrarum, Bd. 4 (Ausgabe 1635); Exemplar der David Rumsey Map Collection über das Internet Archive und Wikimedia Commons."
   },
   {
    "id": "stoewer",

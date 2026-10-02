@@ -122,16 +122,30 @@
    "citeLabel": "Pfundgeld 1399 Rechnung [3]"
   },
   {
-   "d": "1400",
+   "d": "Mai–Juni 1400",
    "side": "hanse",
    "titel": "Emden",
-   "text": "Eine Flotte der Städte zieht nach Ostfriesland, wo die Vitalienbrüder bei friesischen Häuptlingen Schutz gefunden haben. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Schiffe aus Lübeck, Hamburg, Bremen, Groningen und der Zuiderzee ziehen in die Ems. In der Oster-Ems fallen an die 80 Vitalienbrüder; am 11. Mai werden in Emden 25 enthauptet, darunter ein Bastard des Grafen von Oldenburg. Die Häuptlinge übergeben ihre Burgen; 25 Friesen werden gegen ihren Eid begnadigt.",
+   "cite": "#/text/emden/kampf/3",
+   "citeLabel": "Emden 1400 Kampf [3]",
+   "plate": "emden1575"
   },
   {
    "d": "15. August 1400",
    "side": "vitalien",
    "titel": "Ein Vertrag mit Störtebeker",
-   "text": "Herzog Albrecht von Holland schließt einen Vertrag mit ‚Johan Stortebeker‘ und anderen. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Herzog Albrecht von Holland nimmt 114 Vitalienbrüder in seine Freundschaft, unter ihren Wortführern ‚Johan Stortebeker‘, und erlaubt ihnen, seine Feinde zu berauben: Friesen, Groninger und Hamburger.",
+   "cite": "#/text/holland/vertrag/1",
+   "citeLabel": "Holland 1400 Vertrag [1]"
+  },
+  {
+   "d": "11. November 1400",
+   "side": "vitalien",
+   "titel": "Stavoren",
+   "text": "Albrecht nimmt 150 Vitalienbrüder, die beim Grafen von Oldenburg liegen, in seinen Schutz und gibt ihnen Stavoren an der Zuiderzee als Hafen, gegen dieselben Feinde.",
+   "cite": "#/text/holland/staveren/1",
+   "citeLabel": "Holland 1400 Staveren [1]",
+   "plate": "stavoren"
   },
   {
    "d": "1400",

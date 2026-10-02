@@ -4,7 +4,7 @@
 const view = document.getElementById("view");
 const D = { mods: null, plates: null, timeline: null, compare: null, texts: {} };
 const SIDES = { hanse: "Die Städte der Hanse", vitalien: "Die Vitalienbrüder", kronen: "Königin und Könige", orden: "Der Deutsche Orden", rezeption: "Chronik und Legende" };
-const LANGS = { gml: "Mittelniederdeutsch", gmh: "Ostmitteldeutsch", la: "Latein", de: "Deutsch", en: "Übersetzung" };
+const LANGS = { gml: "Mittelniederdeutsch", gmh: "Ostmitteldeutsch", dum: "Mittelniederländisch", la: "Latein", de: "Deutsch", en: "Übersetzung" };
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const side = s => `<span class="side ${s}">${esc(SIDES[s] || s)}</span>`;

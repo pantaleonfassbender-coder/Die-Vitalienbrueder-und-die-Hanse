@@ -201,6 +201,50 @@
      ]
     }
    ]
+  },
+  {
+   "id": "gnade",
+   "titel": "Richten oder begnadigen",
+   "frage": "Emden 1400: dieselben Hauptleute, zwei Urteile über Vitalienbrüder.",
+   "note": "Am 11. Mai lassen die Hauptleute Lübecks und Hamburgs in Emden 25 Vitalienbrüdern die Köpfe abschlagen, darunter drei Hauptleute. Am 21. Juni nehmen dieselben Männer 25 Friesen zu Gnaden, die schwören, den Kaufmann nicht mehr zu schädigen und Vitalienbrüder verfolgen zu helfen. Was entscheidet? Die Friesen sagten, sie seien gegen ihren Willen dazu gebracht worden; sie waren Einheimische, die man brauchte; und ihre Gnade ist ein Dienst: Aus Vitalienbrüdern werden Jäger von Vitalienbrüdern.",
+   "voices": [
+    {
+     "text": "emden",
+     "sec": "kampf",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "emden",
+     "sec": "gnade",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kaperbrief",
+   "titel": "Kaperbrief und Rechtsbruch",
+   "frage": "1400: Was die Städte richten, nimmt Holland in Dienst.",
+   "note": "Im Mai schlagen Lübeck und Hamburg in der Ems die Vitalienbrüder und richten sie als Seeräuber. Im August nimmt der Graf von Holland 114 Vitalienbrüder ‚tot onser vriensscap‘ und erlaubt ihnen, seine Feinde zu berauben, Hamburg ausdrücklich darunter, und ihre Beute in seinen Häfen frei zu verkaufen. Ob ein Mann Kriegsmann oder Seeräuber ist, hängt nicht an dem, was er tut, sondern daran, wer ihm einen Brief gibt. Das war 1389 so, als Mecklenburg die Häfen öffnete, und es ist 1400 noch so.",
+   "voices": [
+    {
+     "text": "emden",
+     "sec": "kampf",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "holland",
+     "sec": "vertrag",
+     "n": [
+      2
+     ]
+    }
+   ]
   }
  ]
 }

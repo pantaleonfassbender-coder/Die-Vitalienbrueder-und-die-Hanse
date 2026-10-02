@@ -22,6 +22,8 @@ SOURCES = {
     "elbing": ("https://upload.wikimedia.org/wikipedia/commons/0/0f/Siegel_Elbing_1350.jpg", None),
     "jungingen": ("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AGAD_Pieczec_Konrada_von_Jungingen_wielkiego_mistrza_zakonu_krzyzackiego.png/1280px-AGAD_Pieczec_Konrada_von_Jungingen_wielkiego_mistrza_zakonu_krzyzackiego.png", None),
     "cartagotland": ("https://upload.wikimedia.org/wikipedia/commons/7/73/Carta_Marina_Gotland.jpeg", None),
+    "emden1575": ("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Emden_by_Braun_Hogenberg_%28110200963%29.jpg/1920px-Emden_by_Braun_Hogenberg_%28110200963%29.jpg", None),
+    "stavoren": ("https://upload.wikimedia.org/wikipedia/commons/f/fd/Vol_IV_%2817%29_Bolzvardia_%28Bolsward%29._Stavria_%28Stavoren%29._Harlinga_%28Harlingen%29._Hindelopia_%28Hindeloopen%29._%28IA_dr_vol-iv-17-bolzvardia-bolsward-stavria-stavoren-harlinga-harlingen-12126400%29.jpg", None),
     "stoewer": ("https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hansa_ships_of_the_XIVth_and_XVth_centuries.jpg/1920px-Hansa_ships_of_the_XIVth_and_XVth_centuries.jpg", None),
     # Editionsseiten (Internet Archive)
     "hr168": ("https://archive.org/download/hanserecesse12roppgoog/page/n209_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
@@ -29,6 +31,8 @@ SOURCES = {
     "hr304": ("https://archive.org/download/hanserecesse12roppgoog/page/n345_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr421": ("https://archive.org/download/hanserecesse12roppgoog/page/n462_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr491": ("https://archive.org/download/hanserecesse12roppgoog/page/n532_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
+    "hr539": ("https://archive.org/download/hanserecesse12roppgoog/page/n580_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
+    "hr552": ("https://archive.org/download/hanserecesse12roppgoog/page/n593_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "hr417": ("https://archive.org/download/hanserecesse12roppgoog/page/n458_w1800.jpg", (0.02, 0.02, 0.98, 0.98)),
     "srp217": ("https://archive.org/download/bub_gb_qtftAAAAIAAJ/page/n223_w1800.jpg", (0.04, 0.03, 0.97, 0.97)),
     "detmar50": ("https://archive.org/download/bub_gb_oqgKAAAAIAAJ/page/n76_w1800.jpg", (0.04, 0.02, 0.98, 0.98)),
@@ -47,6 +51,10 @@ def fetch(url, tries=4):
             if e.code != 429 or i == tries - 1:
                 raise
             time.sleep(20 * (i + 1))
+        except (urllib.error.URLError, ConnectionError):
+            if i == tries - 1:
+                raise
+            time.sleep(10 * (i + 1))
 
 
 def save(im, pid):
