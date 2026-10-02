@@ -1,5 +1,62 @@
 {
- "lede": "",
- "credit": "",
- "plates": []
+ "lede": "Was die Zeit selbst von Stadt und Schiff zeigt, die Seiten, aus denen die Texte gelesen sind, und wo es geschah. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, die sie zeigen.",
+ "credit": "Tafeln: Holzschnitt der Schedelschen Weltchronik (Nürnberg 1493), das Siegel der Stadt Elbing (1350) und Willy Stöwers Zeichnung hansischer Schiffe (1902), aus gemeinfreien Reproduktionen über Wikimedia Commons; Seiten der hier gelesenen Editionen (Hanserecesse I.4, 1877; Chroniken der deutschen Städte 26, 1899) aus dem Internet Archive; und eine für diese Site gezeichnete Karte mit Küstenlinien aus Natural Earth. Alles gemeinfrei oder CC0; für die Site verkleinert.",
+ "plates": [
+  {
+   "id": "karte",
+   "titel": "Orte in den Texten",
+   "side": "hanse",
+   "caption": "Die Ostsee der Vitalienbrüder: Rostock und Wismar, die ihre Häfen öffneten, Stockholm, das sie versorgten, Visby und Bergen, die sie nahmen, und Emden und Helgoland, wo sie endeten; dazu die Hansestädte, die gegen sie Schiffe stellten, Dragør und Bornholm als Treffpunkte der Friedeflotte (Lübeck 1395 Rezess [4]) und die Newa, wohin Detmars Fortsetzer vierhundert von ihnen segeln lässt (Lübeck 1395 Fortsetzung [1]).",
+   "source": "Für diese Site gezeichnet; Küsten und Seen nach Natural Earth (ne_50m_land, ne_50m_lakes, gemeinfrei), Orte nach heutigen Koordinaten."
+  },
+  {
+   "id": "lubeca",
+   "titel": "Lübeck",
+   "side": "hanse",
+   "caption": "Lübeck hundert Jahre nach dem Hansetag von 1395, von der Trave aus: die Türme von Dom, Marienkirche und Petrikirche, Mauer, Tore und Schiffe vor der Stadt. Hier tagten die Städte am Michaelistag 1395 (Lübeck 1395 Rezess [1]), und von hier liefen die zwanzig Schiffe des Rats aus (Lübeck 1395 Detmar [3]).",
+   "source": "Hartmann Schedel, Liber chronicarum (Nürnberg 1493), fol. 265v–266r, Holzschnitt aus der Werkstatt von Michael Wolgemut und Wilhelm Pleydenwurff, koloriertes Exemplar; über Wikimedia Commons."
+  },
+  {
+   "id": "elbing",
+   "titel": "Eine Kogge im Siegel",
+   "side": "hanse",
+   "caption": "Das Siegel der preußischen Hansestadt Elbing von 1350: eine Kogge mit hohem Achterkastell, Heckruder und Kreuzwimpel, Umschrift ‚Sigillum burgensium de Elbingo‘. Schiffe dieser Art stellten die Städte 1394 und 1395 als Friedeschiffe (Flotte 1394 [2]); Elbing war mit Johannes Stolte auf dem Hansetag von 1395 (Lübeck 1395 Rezess [1]).",
+   "source": "Siegel der Stadt Elbing, 1350, Reproduktion; über Wikimedia Commons."
+  },
+  {
+   "id": "hr168",
+   "titel": "Der Flottenbeschluss im Druck",
+   "side": "hanse",
+   "caption": "Hanserecesse I.4, S. 168: der Rezess vom 3. März 1394 mit dem Beschluss, ‚de zee to bevredende‘, und den Quoten der Städte. Koppmann druckt nach der Hamburger Handschrift und setzt die Lesarten der übrigen in den Apparat (Flotte 1394 [1], [2]).",
+   "source": "Hanserecesse, 1. Abt., Bd. 4, hg. von Karl Koppmann (Leipzig 1877), S. 168; Internet Archive (hanserecesse12roppgoog)."
+  },
+  {
+   "id": "hr258",
+   "titel": "Der Denkelbrief im Druck",
+   "side": "kronen",
+   "caption": "Hanserecesse I.4, S. 258: unten beginnt Nr. 264, der Denkelbrief über den Beginn des Friedens von 1395. Wer nach dem St.-Jakobs-Tag noch in der See gefasst wird, wird gerichtet (Lindholm Denkelbrief [2]).",
+   "source": "Hanserecesse, 1. Abt., Bd. 4, hg. von Karl Koppmann (Leipzig 1877), S. 258; Internet Archive (hanserecesse12roppgoog)."
+  },
+  {
+   "id": "hr304",
+   "titel": "Der Rezess vom Michaelistag im Druck",
+   "side": "hanse",
+   "caption": "Hanserecesse I.4, S. 304: oben Albrechts Antwort, Rostock und Wismar hätten ‚umme syner losinghe willen‘ gehandelt, darunter die zweite Friedeflotte mit dem Treffpunkt Dragør. In der Mitte der Seite druckt Koppmann zwei Fassungen nebeneinander, links die Ledreborger und Thorner, rechts die Hamburger Handschrift (Lübeck 1395 Rezess [3], [4]).",
+   "source": "Hanserecesse, 1. Abt., Bd. 4, hg. von Karl Koppmann (Leipzig 1877), S. 304; Internet Archive (hanserecesse12roppgoog)."
+  },
+  {
+   "id": "detmar50",
+   "titel": "Detmar über die Vitalienbrüder",
+   "side": "rezeption",
+   "caption": "Chroniken der deutschen Städte 26, S. 50: unten § 974, Detmars Bericht vom ‚sturlos volk‘, das sich Vitalienbrüder nannte. Im Apparat stehen die lateinischen Parallelen aus Hermann Korners Chronik (Lübeck 1395 Detmar [1]).",
+   "source": "Die Chroniken der niedersächsischen Städte. Lübeck, Bd. 2, hg. von Karl Koppmann (Die Chroniken der deutschen Städte 26, Leipzig 1899), S. 50; Internet Archive (bub_gb_oqgKAAAAIAAJ), digitalisiert von Google."
+  },
+  {
+   "id": "stoewer",
+   "titel": "Hansische Schiffe, 1902 gezeichnet",
+   "side": "rezeption",
+   "caption": "Willy Stöwers Tafel ‚Hansa ships of the XIVth and XVth centuries‘: zwei Kölner Schiffe nach einem Ursula-Martyrium um 1409, dazu Schiffe nach den Siegeln von Wismar, Lübeck, Danzig und Elbing. So zeichnete das Kaiserreich die Flotten der Hanse; die Tafel gehört zur Nachgeschichte, nicht zu den Quellen. Das Elbinger Siegel steht als eigene Tafel daneben.",
+   "source": "Willy Stöwer, Tafel in: H. F. Helmolt (Hg.), History of the World, Bd. 7 (New York: Dodd, Mead 1902), zwischen S. 32 und 33; über Wikimedia Commons."
+  }
+ ]
 }

@@ -11,13 +11,19 @@
    "d": "1389–1392",
    "side": "vitalien",
    "titel": "Die Vitalienbrüder",
-   "text": "Mecklenburg öffnet seine Häfen für alle, die gegen Dänemark kapern wollen; Rostock und Wismar rüsten Schiffe aus, die Stockholm mit Lebensmitteln versorgen. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Mecklenburg öffnet seine Häfen für alle, die gegen Dänemark kapern wollen; Rostock und Wismar rüsten Schiffe aus, die Stockholm versorgen. Der Lübecker Chronist Detmar nennt sie ein ‚steuerloses Volk‘, das bei Freund und Feind raubte, sodass der Hering teuer wurde.",
+   "cite": "#/text/luebeck1395/detmar/1",
+   "citeLabel": "Lübeck 1395 Detmar [1]",
+   "plate": "detmar50"
   },
   {
-   "d": "1392–1394",
+   "d": "1393",
    "side": "vitalien",
    "titel": "Bergen und die Ostsee",
-   "text": "Die Vitalienbrüder plündern Bergen in Norwegen und machen die Ostsee unsicher; der Handel der Städte stockt. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Die Vitalienbrüder nehmen Bergen in Norwegen, nach englischen Angaben am 22. April 1393, und verheeren dänische Küsten; Detmar setzt es unter 1392.",
+   "cite": "#/text/luebeck1395/detmar/2",
+   "citeLabel": "Lübeck 1395 Detmar [2]",
+   "plate": "karte"
   },
   {
    "d": "März 1394",
@@ -25,7 +31,8 @@
    "titel": "Der Flottenbeschluss",
    "text": "Ein Hansetag in Lübeck beschließt, die See vor den Seeräubern zu befrieden: Lübeck stellt sechs Koggen, Preußen zehn, zusammen über dreißig mit gut dreitausend Mann; bezahlt wird mit einem Pfundgeld auf die Ladung.",
    "cite": "#/text/flotte1394/flotte/1",
-   "citeLabel": "Flotte 1394 [1]"
+   "citeLabel": "Flotte 1394 [1]",
+   "plate": "hr168"
   },
   {
    "d": "1394",
@@ -39,7 +46,34 @@
    "titel": "Der Frieden von Lindholm",
    "text": "Margarete lässt Albrecht gegen die Bürgschaft von sieben Städten frei; Stockholm wird ihnen als Pfand übergeben. Wer in der See ist, soll sie bis zum 25. Juli räumen; wer danach gefasst wird, wird gerichtet.",
    "cite": "#/text/lindholm/see/2",
-   "citeLabel": "Lindholm Denkelbrief [2]"
+   "citeLabel": "Lindholm Denkelbrief [2]",
+   "plate": "hr258"
+  },
+  {
+   "d": "11. Juni 1395",
+   "side": "hanse",
+   "titel": "Lübeck geht allein in See",
+   "text": "Lübeck schickt zwanzig große Schiffe mit Schniggen und vielen Bewaffneten unter vier Ratsherren in See; sie bleiben bis nach Michaelis. Die Bürger klagen später über die Kosten.",
+   "cite": "#/text/luebeck1395/detmar/3",
+   "citeLabel": "Lübeck 1395 Detmar [3]",
+   "plate": "elbing"
+  },
+  {
+   "d": "29. September 1395",
+   "side": "hanse",
+   "titel": "Der Hansetag am Michaelistag",
+   "text": "England und Flandern klagen über Rostock und Wismar; König Albrecht verteidigt sie, sie hätten ‚um seiner Befreiung willen‘ gehandelt. Die Städte entwerfen eine zweite, kleinere Friedeflotte für das Frühjahr 1396 und lehnen das Pfundgeld ab.",
+   "cite": "#/text/luebeck1395/tag/3",
+   "citeLabel": "Lübeck 1395 Rezess [3]",
+   "plate": "lubeca"
+  },
+  {
+   "d": "1395/96",
+   "side": "rezeption",
+   "titel": "Vierhundert nach Osten",
+   "text": "Detmars Fortsetzer erzählt, vierhundert Vitalienbrüder seien nach dem Frieden an die Newa gesegelt und bis zu den Roten Juden am Kaspischen Gebirge geraten; die Hälfte sei heimgekehrt.",
+   "cite": "#/text/luebeck1395/osten/1",
+   "citeLabel": "Lübeck 1395 Fortsetzung [1]"
   },
   {
    "d": "1398",

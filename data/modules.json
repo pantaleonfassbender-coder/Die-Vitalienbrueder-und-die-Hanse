@@ -15,16 +15,17 @@
    "zk": "Lindholm",
    "kurz": "Lindholm 1395 und Stockholm als Pfand",
    "warum": "Der Frieden zwischen Margarete und Albrecht: Visby bleibt dem König, wer in der See ist, muss sie bis zum St.-Jakobs-Tag räumen, sonst wird er gerichtet, und sieben Städte nehmen Stockholm als Pfand. Mittelniederdeutsch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
+  },
+  {
+   "id": "luebeck1395",
+   "datei": "luebeck1395",
+   "side": "hanse",
+   "zk": "Lübeck 1395",
+   "kurz": "Der Lübecker Hansetag vom September 1395, mit Detmar",
+   "warum": "Klagen aus England und Flandern gegen Rostock und Wismar, König Albrecht, der seine Helfer ‚um seiner Befreiung willen‘ verteidigt, eine zweite Friedeflotte und das Pfundgeld; dazu Detmar, der Chronist des Rats, über die Vitalienbrüder und Lübecks Sommerflotte, und sein Fortsetzer mit der ersten Legende. Mittelniederdeutsch nach Koppmann (1877, 1899), am Seitenbild gelesen, mit Arbeitsübersetzung."
   }
  ],
  "planned": [
-  {
-   "id": "luebeck1395",
-   "side": "hanse",
-   "kurz": "Der Lübecker Hansetag vom September 1395, mit Detmar",
-   "warum": "Was die Städte nach dem Frieden beschließen, und wie der Lübecker Chronist die Friedeschiffe beschreibt.",
-   "quelle": "Hanserecesse I.4, Nr. 308, S. 303; Chroniken der deutschen Städte 26 (1899), S. 66."
-  },
   {
    "id": "gotland",
    "side": "orden",

@@ -23,6 +23,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "befreiung",
+   "titel": "Um des Königs willen",
+   "frage": "Kaperer oder Räuber: der König und der Chronist über dieselben Leute.",
+   "note": "In Lübeck sagt König Albrecht vor den Städten, Rostock und Wismar hätten alles ‚zu seinem Besten und um seiner Befreiung willen‘ getan, und die Städte antworten nur, es stehe ihnen nicht zu, das zu erlassen. Detmar, der für den Lübecker Rat schreibt, nimmt dasselbe Programm auf, die Befreiung des Königs, und misst die Vitalienbrüder daran: Sie raubten bei Freund und Feind. Der König verteidigt den Zweck, der Chronist zählt die Opfer.",
+   "voices": [
+    {
+     "text": "luebeck1395",
+     "sec": "tag",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "luebeck1395",
+     "sec": "detmar",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "friedeschiffe",
+   "titel": "Zwei Friedeflotten",
+   "frage": "März 1394 und September 1395: derselbe Beschluss, zwei Größen.",
+   "note": "Beide Male wollen die Städte ‚de zee bevreden vor den zeeroveren‘. 1394 stellt Lübeck sechs Koggen und Preußen zehn, mehr als dreißig Schiffe insgesamt, bezahlt aus dem Pfundgeld. 1395 sind es elf Schiffe mit tausend Mann, Lübeck stellt zwei, und das Pfundgeld lehnen die Städte ab. Zwischen beiden Beschlüssen liegen der Frieden von Lindholm und ein Sommer, in dem Lübeck allein in See ging.",
+   "voices": [
+    {
+     "text": "flotte1394",
+     "sec": "flotte",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "luebeck1395",
+     "sec": "tag",
+     "n": [
+      4
+     ]
+    }
+   ]
   }
  ]
 }
