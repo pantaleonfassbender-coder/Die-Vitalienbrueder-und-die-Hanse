@@ -245,6 +245,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "dreiundsiebzig",
+   "titel": "Dreiundsiebzig",
+   "frage": "Wie viele starben? Die Rechnung und die Chronik.",
+   "note": "Die Kämmerei zahlt dem Knoker drei Pfund, um 73 Personen, Vitalienbrüder, zu begraben, und dem Büttel von Buxtehude fünf Pfund für die Enthauptung. Rufus erzählt von an die 40 Toten bei Helgoland und an die 70 Gefangenen, die in Hamburg enthauptet und deren Köpfe an der Elbe aufgestellt wurden; die Handschriften schwanken zwischen 30, 40 und 240. Die Rechnung kennt keine Namen, die Chronik keine genauen Zahlen. Nur zusammen ergeben sie, was die Legende später aus Störtebeker machte.",
+   "voices": [
+    {
+     "text": "helgoland",
+     "sec": "rechnung",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "helgoland",
+     "sec": "chronik",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jahreszahl",
+   "titel": "1400, 1401, 1402 oder 1403",
+   "frage": "Wann wurde Störtebeker hingerichtet?",
+   "note": "Die Kämmereirechnung von 1401 bucht die Fahrt nach Helgoland ‚de anno preterito‘, aus dem vergangenen Rechnungsjahr; Koppmann schließt daraus, dass der Kampf noch 1400 stattfand. Die Hamburger Chronik bei Lappenberg nennt 1401 für Störtebeker und Godeke Michels, eine andere Fassung 1402, eine dritte 1403 für Godeke Michels und Wigbold. Die Jahreszahl 1401, die heute auf Denkmälern steht, ist eine Wahl zwischen Chroniken, nicht ein Datum der Akten.",
+   "voices": [
+    {
+     "text": "helgoland",
+     "sec": "rechnung",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "helgoland",
+     "sec": "chronik",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
   }
  ]
 }

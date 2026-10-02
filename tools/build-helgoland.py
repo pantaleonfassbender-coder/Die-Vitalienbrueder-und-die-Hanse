@@ -1,0 +1,75 @@
+"""Baut data/helgoland.json: Helgoland und die Hinrichtungen in Hamburg, 1400–1401, in Rechnung und Chronik.
+
+Latein: Kämmereirechnungen der Stadt Hamburg, hg. von Karl Koppmann, Bd. 1 (Hamburg 1869), S. 479 und 490
+(Münchener DigitalisierungsZentrum, bsb11005619, Bild = Seite + 120), und Bd. 2 (Hamburg 1873), S. 1–2
+(Internet Archive bub_gb_lxwMAQAAMAAJ, Blatt = Seite + 13).
+Mittelniederdeutsch: Rufus-Chronik § 1150, in: Die Chroniken der deutschen Städte 28 (Lübeck 3, Leipzig 1902), S. 25
+(Internet Archive bub_gb__KgKAAAAIAAJ, Blatt = Seite + 19); Hamburgische Chroniken in niedersächsischer Sprache,
+hg. von J. M. Lappenberg (Hamburg 1861), S. 241 und 402 (Internet Archive hamburgischechr00lappgoog).
+Alles am Seitenbild gelesen. Übersetzung: eigene Arbeitsübersetzung (CC0).
+"""
+import json
+from pathlib import Path
+
+OUT = Path(__file__).resolve().parent.parent / "data" / "helgoland.json"
+
+RECHNUNG = [
+    dict(n=1, titel="Ein Bote nach Helgoland, 1394", pg="Kämmereirechn. I S. 479",
+         orig="3 ℔ Petro misso super Hilghelande, ad respiciendum fratres Vitalienses.",
+         en="3 Pfund dem Peter, der nach Helgoland geschickt wurde, um nach den Vitalienbrüdern zu sehen.",
+         note="Aus den Ausgaben Hamburgs für 1394, unter ‚Ad diversa‘. Ein Kundschafter: Schon sechs Jahre vor dem Kampf wusste Hamburg, dass die Vitalienbrüder Helgoland als Liegeplatz nutzten, vor der Mündung der Elbe, an der Hamburgs Handel hing. ‚Fratres Vitalienses‘ ist die lateinische Form des Namens. Die Kämmereirechnungen sind nicht vollständig gedruckt; Koppmann bringt Auszüge."),
+    dict(n=2, titel="Dreißig Köpfe und eine Grube, 1400", pg="Kämmereirechn. I S. 490",
+         orig="1 ℔ Knokere ad faciendum foveam pro Vitaliensibus decollatis. 12 ℔ bedello ad decollandum 30 Vitalienses.",
+         en="1 Pfund dem Knoker, um eine Grube für die enthaupteten Vitalienbrüder zu machen. 12 Pfund dem Büttel, um 30 Vitalienbrüder zu enthaupten.",
+         note="Aus den Ausgaben für 1400, unter ‚Ad diversa‘, zwischen 50 Gulden, die dem jungen Grafen Heinrich von Holstein zum Studium geschenkt wurden, und den Ausgaben ‚pro diversis inutilibus expensis‘. Zwölf Pfund für dreißig Hinrichtungen, acht Schilling der Kopf; ein Pfund für die Grube. Der ‚Knoker‘ ist der Abdecker oder Knochenhauer, der auch die Toten begrub. Welche dreißig es waren und wo man sie fing, sagt die Rechnung nicht; im selben Jahr hatten die Hamburger mit Lübeck in der Ems gekämpft (Emden 1400 Kampf)."),
+    dict(n=3, titel="Dreiundsiebzig, 1401", pg="Kämmereirechn. II S. 1",
+         orig="Ad diversa: 16½ ß pro expensis cancellarii regine Dacie. 5 ß nuncio pro littera pacis ducis Hollandie. 3 ℔ Knokere ad sepeliendum 73 personas Vitalienses. (Ad usum Billenwerderes 3941 ℔ 3 ß 5 ₰.) 5 ℔ bedello de Buxtehude ad decollandum Vitalienses.",
+         en="Verschiedenes: 16½ Schilling für die Kosten des Kanzlers der Königin von Dänemark. 5 Schilling einem Boten für den Friedensbrief des Herzogs von Holland. 3 Pfund dem Knoker, um 73 Personen, Vitalienbrüder, zu begraben. (Für den Bedarf des Billwerders 3941 Pfund 3 Schilling 5 Pfennig.) 5 Pfund dem Büttel von Buxtehude, um Vitalienbrüder zu enthaupten.",
+         note="Der Eintrag, auf dem die Zahl der Hingerichteten beruht: 73 Gräber. Das Rechnungsjahr 1401 lief, wie Koppmann zu Rufus anmerkt, von Petri Stuhlfeier 1401 bis Petri Stuhlfeier 1402 (22. Februar). Hamburgs eigener Büttel reichte nicht; man holte den aus Buxtehude dazu. In derselben Zeile steht der ‚Friedensbrief des Herzogs von Holland‘: Albrecht, der im August 1400 die Vitalienbrüder in Dienst genommen hatte (Holland 1400 Vertrag), schloss nun Frieden mit Hamburg. Die eingeklammerte Summe für den Billwerder ist ein Nachtrag des Druckes an falscher Stelle."),
+    dict(n=4, titel="Die Fahrt nach Helgoland, abgerechnet", pg="Kämmereirechn. II S. 2",
+         orig="Ad reysam dominorum Nicolai Schoken et Hinrici Ienevelt, super Weseram contra Vitalienses 230 ℔ 14 ß. Pro expensis Hollandinorum captivorum et Frisonum et Vitaliensium sub pretorio 193 ℔ 7 ß. 42 ß Knokere ad custodiendum captivos. […] Ad reysam dominorum Hermanni Langhen et Nicolai Schoken, in Hilghelande, de anno preterito contra Vitalienses: summa 57 ℔. Ad construendum naves Symonis de Utrecht et bunte ko et pro expedicione eiusdem navis bunte ko 95½ ℔ 5 ß.",
+         en="Für die Fahrt der Herren Nikolaus Schoke und Hinrich Jenefelt die Weser hinauf gegen die Vitalienbrüder 230 Pfund 14 Schilling. Für die Kosten der gefangenen Holländer, Friesen und Vitalienbrüder unter dem Rathaus 193 Pfund 7 Schilling. 42 Schilling dem Knoker, um die Gefangenen zu bewachen. […] Für die Fahrt der Herren Hermann Lange und Nikolaus Schoke nach Helgoland, vom vergangenen Jahr, gegen die Vitalienbrüder: Summe 57 Pfund. Für den Bau der Schiffe Simons von Utrecht und der ‚bunten Kuh‘ und für die Ausrüstung desselben Schiffes ‚bunte Kuh‘ 95½ Pfund 5 Schilling.",
+         note="Die Fahrt nach Helgoland wird 1401 abgerechnet, aber ‚de anno preterito‘, aus dem vergangenen Rechnungsjahr: Der Kampf fand also nach Koppmanns Schluss noch 1400 statt, nicht 1401 und nicht 1402, wie die Chroniken sagen. Die Gefangenen saßen unter dem Rathaus, Holländer und Friesen neben Vitalienbrüdern, und kosteten fast 200 Pfund. Die ‚bunte Kuh‘ ist das Schiff, das die Legende zum Flaggschiff Simons von Utrecht macht, der Störtebeker gefangen haben soll; hier steht es als Posten zwischen Bau und Ausrüstung."),
+    dict(n=5, titel="Baumwolle aus Godeke Michels' Schiff, 1402", pg="Kämmereirechn. II S. 2",
+         orig="17½ ℔ 2 ß de bomw(e)llen de nave Godeken Michahelis.",
+         en="17½ Pfund 2 Schilling für Baumwolle aus dem Schiff Godeke Michels'.",
+         note="Unter den Einnahmen von 1402: Die Stadt verkauft die Beute aus dem Schiff des zweiten Hauptmanns, den die Chroniken mit Störtebeker zusammen nennen. Daneben stehen Wachs aus einem Holk, Tuch, ein Drittel eines Schiffes und eine Liburne, ein schnelles Ruderschiff. Was die Vitalienbrüder geraubt hatten, wird zur Einnahme der Kämmerei."),
+]
+
+CHRONIK = [
+    dict(n=1, titel="Rufus: Köpfe auf Pfählen an der Elbe", pg="Chron. 28 S. 25", lang="gml",
+         orig="1150. In deme sulven jare vochten de Engelandesvarer van der stad Hamborch uppe der zee myt den zeeroveren, de syk vitalyenbroder nomeden, unde behelden den seghe jeghen se. se slughen erer beth den 40 doet by Hilghelande unde vinghen erer by 70. de brachten se myt syk to Hamborch, unde leten en allen de hovede afslan; ere hovede setten se by de Elve up eyne wisch to eyme tekene, dat se de zee gherovet hadden. desser vitalien hovetlude weren ghenomet Wichman und Clawes Stortebeker.",
+         en="1150. Im selben Jahr kämpften die Englandfahrer der Stadt Hamburg auf der See mit den Seeräubern, die sich Vitalienbrüder nannten, und behielten den Sieg gegen sie. Sie schlugen ihrer an die 40 tot bei Helgoland und fingen ihrer an die 70. Die brachten sie mit sich nach Hamburg und ließen ihnen allen die Häupter abschlagen; ihre Häupter setzten sie an der Elbe auf eine Wiese, zum Zeichen, dass sie die See beraubt hatten. Die Hauptleute dieser Vitalienbrüder hießen Wichman und Klaus Störtebeker.",
+         note="Die Lübecker Rufus-Chronik, eine Bearbeitung der Detmar-Fortsetzung aus der Mitte des 15. Jahrhunderts. ‚Im selben Jahr‘ heißt hier: im Jahr, in dem König Wenzel von seinem Bruder Sigismund gefangen wurde (§ 1149), also 1402. Hier stehen zum ersten Mal zusammen: Helgoland, der Vorname ‚Clawes‘ und die Köpfe auf der Wiese an der Elbe. Kämpfer sind die ‚Engelandesvarer‘, die Hamburger Englandfahrer-Gesellschaft, also die Kaufleute selbst. Die Handschriften schwanken bei der Zahl der Toten zwischen 30, 40 und 240. Die Köpfe als Zeichen sind nach Koppmann ‚Zuthat; nur hier‘. Die Kämmereirechnung zählt 73 Begrabene (Helgoland Rechnung [3])."),
+    dict(n=2, titel="Die Hamburger Chronik: 1401 und 1403", pg="Lappenberg S. 402", lang="gml",
+         orig="Anno 1401 wart to Hamborch Clawes Stortebeker vnd Godeke Mychel vor seerouer vpgehalet vnd myt eren gesellen vp dem Broke gekoppet. Anno 1403 worden de anderen seerouers vpgehalet. Alse Wykbolt vnd Gotfridus nam her Clawes Stacken vnd her Dyryk Jenefelt, ratmans to Hamborch, kort na Feliciani, vnd worden den vorbenomeden seerouers de koppe vp dem Broke myt eren gesellen afgehouwen.",
+         en="Im Jahr 1401 wurden zu Hamburg Klaus Störtebeker und Godeke Michels als Seeräuber eingebracht und mit ihren Gesellen auf dem Brook geköpft. Im Jahr 1403 wurden die anderen Seeräuber eingebracht. Nämlich Wigbold und Gottfried nahmen Herr Klaus Stake und Herr Dietrich Jenefelt, Ratmannen zu Hamburg, kurz nach Feliciani, und den genannten Seeräubern wurden die Köpfe auf dem Brook mit ihren Gesellen abgehauen.",
+         note="Aus einer der niederdeutschen Hamburger Chroniken, die Lappenberg 1861 gedruckt hat. ‚Gekoppet‘ heißt geköpft; der Brook, später Grasbrook, war die Richtstätte vor der Stadt. Hier werden Störtebeker und Godeke Michels zusammen 1401 hingerichtet, Wigbold 1403. ‚Gotfridus‘ ist wohl eine zweite Form für Godeke: Die Chronik führt ihn einmal zu viel. Feliciani ist der 9. Juni."),
+    dict(n=3, titel="Drei Fassungen, drei Jahre", pg="Lappenberg S. 241", lang="gml",
+         orig="Item dessuluen iars 2 do grepen de van Hamborch im ersten de serouers, alse Wichman vnde Stortebeker, dede worden gerichtet tohant na Feliciani. [Item anno 1402 do grepen de Hamborger de ersten serouers, alse Wichman vnde Stortebeker; de suluen worden alle gerichtet mit erer selschop. 3. Anno Domini 1402 do haleden de Hamborger tor ersten tit Wichman vnd Claus Stortebeker. Dar bleuen in der see 40 man vnd 70 wurden vor Hamborch enthouedet. Vnd im suluen iare wurt gekoppet Gotke Michel vnd Wichbolt bei 80 personen. 4.] Item anno 3 do wart eyn ritter vt dem lande to Mekellenborch, her Johan Goer genomet, tor Wysmer in den galgen gehanghen. Item anno 1403 do grepen de Hamburger, alse her Niclawes Stake vnde her Dyrik Jenefelt de anderen serouers, Wikbolten vnde Gotke Michel.",
+         en="Item im selben Jahr [14]02, da griffen die von Hamburg zuerst die Seeräuber, nämlich Wichman und Störtebeker, die gleich nach Feliciani gerichtet wurden. [Item im Jahr 1402, da griffen die Hamburger die ersten Seeräuber, nämlich Wichman und Störtebeker; dieselben wurden alle mit ihrer Gesellschaft gerichtet. (Handschrift) 3. Im Jahr des Herrn 1402, da holten die Hamburger zum ersten Mal Wichman und Klaus Störtebeker ein. Da blieben 40 Mann in der See, und 70 wurden vor Hamburg enthauptet. Und im selben Jahr wurden Godeke Michels und Wigbold geköpft, an die 80 Personen. (Handschrift) 4.] Item im Jahr [14]03, da wurde ein Ritter aus dem Land Mecklenburg, Herr Johann Goer genannt, zu Wismar an den Galgen gehängt. Item im Jahr 1403 griffen die Hamburger, nämlich Herr Nikolaus Stake und Herr Dietrich Jenefelt, die anderen Seeräuber, Wigbold und Godeke Michels.",
+         note="Eine weitere Chronik in Lappenbergs Band, mit den Abweichungen anderer Handschriften in eckigen Klammern. Dieselbe Nachricht in drei Fassungen: einmal 1402, Wichman und Störtebeker gerichtet; einmal mit 40 Toten in der See und 70 Enthaupteten, dazu Godeke Michels und Wigbold im selben Jahr mit 80 Personen; einmal Godeke Michels und Wigbold erst 1403. Die Kämmereirechnung legt den Kampf in das Jahr 1400 und die Begräbnisse ins Rechnungsjahr 1401. Wo die Chroniken in Jahr, Zahl und Namen auseinandergehen, ist die Rechnung der feste Punkt: 73 Gräber, ein Henker aus Buxtehude, Baumwolle aus Godekes Schiff."),
+]
+
+doc = {
+    "id": "helgoland",
+    "titel": "Helgoland und die Hinrichtungen, 1400–1401",
+    "autor": "Die Kämmerer der Stadt Hamburg; die Rufus-Chronik; Hamburger Chronisten",
+    "jahr": "1400–1402",
+    "sprache": "de",
+    "orig_sprache": "la",
+    "pg_label": "",
+    "quelle": "Kämmereirechnungen der Stadt Hamburg, hg. von Karl Koppmann, Bd. 1 (Hamburg 1869), S. 479, 490 (Münchener DigitalisierungsZentrum: bsb11005619), Bd. 2 (Hamburg 1873), S. 1–2 (Internet Archive: bub_gb_lxwMAQAAMAAJ); Rufus-Chronik § 1150, in: Die Chroniken der deutschen Städte 28 (Leipzig 1902), S. 25 (Internet Archive: bub_gb__KgKAAAAIAAJ); Hamburgische Chroniken in niedersächsischer Sprache, hg. von J. M. Lappenberg (Hamburg 1861), S. 241, 402 (Internet Archive: hamburgischechr00lappgoog). Übersetzung: eigene Arbeitsübersetzung.",
+    "hinweis": "Das Ende der Vitalienbrüder, wie es die Legende von Störtebeker kennt, aus zwei Arten von Quellen. Die Kämmereirechnungen Hamburgs buchen, was es kostete: einen Kundschafter nach Helgoland, die Grube für dreißig Enthauptete, das Begräbnis von dreiundsiebzig, den Henker aus Buxtehude, die Kost der Gefangenen unter dem Rathaus. Die Chroniken erzählen, wer es war: Wichman und Klaus Störtebeker, Godeke Michels und Wigbold, und sie sind sich in Jahr, Zahl und Namen nicht einig. Lateinisch und mittelniederdeutsch, am Seitenbild gelesen; Auslassungen sind mit […] bezeichnet.",
+    "sections": [
+        {"id": "rechnung", "titel": "Was es kostete", "zk": "Helgoland Rechnung",
+         "blurb": "Die Hamburger Kämmereirechnungen von 1394 bis 1402: ein Kundschafter, dreißig Köpfe, dreiundsiebzig Gräber, die Fahrt nach Helgoland, die ‚bunte Kuh‘ und die Baumwolle aus Godeke Michels' Schiff.",
+         "units": RECHNUNG},
+        {"id": "chronik", "titel": "Was man erzählte", "zk": "Helgoland Chronik",
+         "blurb": "Rufus mit Helgoland, Klaus Störtebeker und den Köpfen an der Elbe; die Hamburger Chronik in drei Fassungen mit drei Jahreszahlen.",
+         "units": CHRONIK},
+    ],
+}
+
+OUT.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
+print("helgoland.json:", sum(len(s["units"]) for s in doc["sections"]), "Einheiten")

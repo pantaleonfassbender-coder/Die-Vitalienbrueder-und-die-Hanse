@@ -55,16 +55,16 @@
    "zk": "Holland 1400",
    "kurz": "Der Vertrag Hollands mit Störtebeker, 1400",
    "warum": "Herzog Albrecht von Holland nimmt 114 Vitalienbrüder in seine Freundschaft, unter ihren Wortführern ‚Johan Stortebeker‘, mit freier Beute gegen Friesen, Groninger und Hamburger; im November 150 weitere, mit Stavoren als Hafen. Mittelniederländisch nach Koppmann (1877), am Seitenbild gelesen, mit Arbeitsübersetzung."
-  }
- ],
- "planned": [
+  },
   {
    "id": "helgoland",
+   "datei": "helgoland",
    "side": "rezeption",
-   "kurz": "Helgoland und die Hinrichtungen 1400/01",
-   "warum": "Der Fang bei Helgoland und die Enthauptungen in Hamburg, in der Chronik und in den Kämmereirechnungen.",
-   "quelle": "Chroniken der deutschen Städte 28 (Rufus § 1150); Lappenberg, Hamburgische Chroniken (1861), S. 402; Kämmereirechnungen der Stadt Hamburg I–II."
+   "zk": "Helgoland",
+   "kurz": "Helgoland und die Hinrichtungen, 1400–1401",
+   "warum": "Was die Hamburger Kämmerei buchte, ein Kundschafter nach Helgoland, die Grube für dreißig Enthauptete, dreiundsiebzig Gräber, der Henker aus Buxtehude, Baumwolle aus Godeke Michels' Schiff, neben dem, was die Chroniken erzählten: Klaus Störtebeker, Köpfe an der Elbe und drei verschiedene Jahreszahlen. Latein und Mittelniederdeutsch nach Koppmann (1869, 1873, 1902) und Lappenberg (1861), am Seitenbild gelesen, mit Arbeitsübersetzung."
   }
  ],
+ "planned": [],
  "missing": []
 }

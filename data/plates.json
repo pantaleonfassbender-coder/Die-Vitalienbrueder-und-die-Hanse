@@ -1,6 +1,6 @@
 {
  "lede": "Was die Zeit selbst von Stadt und Schiff zeigt, die Seiten, aus denen die Texte gelesen sind, und wo es geschah. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, die sie zeigen.",
- "credit": "Tafeln: Holzschnitt der Schedelschen Weltchronik (Nürnberg 1493), das Siegel der Stadt Elbing (1350), das Siegel Konrads von Jungingen (1404, Archiwum Główne Akt Dawnych), Gotland auf der Carta marina des Olaus Magnus (1539), Stadtansichten von Braun und Hogenberg (1575, 1635) und Willy Stöwers Zeichnung hansischer Schiffe (1902), aus gemeinfreien Reproduktionen über Wikimedia Commons; Seiten der hier gelesenen Editionen (Hanserecesse I.4, 1877; Scriptores rerum Prussicarum III, 1866; Chroniken der deutschen Städte 26, 1899) aus dem Internet Archive; und eine für diese Site gezeichnete Karte mit Küstenlinien aus Natural Earth. Alles gemeinfrei oder CC0; für die Site verkleinert.",
+ "credit": "Tafeln: Holzschnitt der Schedelschen Weltchronik (Nürnberg 1493), das Siegel der Stadt Elbing (1350), das Siegel Konrads von Jungingen (1404, Archiwum Główne Akt Dawnych), Gotland auf der Carta marina des Olaus Magnus (1539), Stadtansichten von Braun und Hogenberg (1575, 1635), ein Hamburger Flugblatt von 1701 (Staatsarchiv Hamburg) und Willy Stöwers Zeichnung hansischer Schiffe (1902), aus gemeinfreien Reproduktionen über Wikimedia Commons; Seiten der hier gelesenen Editionen (Hanserecesse I.4, 1877; Scriptores rerum Prussicarum III, 1866; Chroniken der deutschen Städte 26 und 28, 1899 und 1902; Kämmereirechnungen der Stadt Hamburg 2, 1873) aus dem Internet Archive; und eine für diese Site gezeichnete Karte mit Küstenlinien aus Natural Earth. Alles gemeinfrei oder CC0; für die Site verkleinert.",
  "plates": [
   {
    "id": "karte",
@@ -106,6 +106,41 @@
    "side": "vitalien",
    "caption": "Bolsward, Stavoren, Harlingen und Hindeloopen auf einem Blatt von Braun und Hogenberg. Stavoren an der Zuiderzee gab Herzog Albrecht im November 1400 den Vitalienbrüdern als Hafen (Holland 1400 Staveren [1]).",
    "source": "Georg Braun und Franz Hogenberg, Civitates orbis terrarum, Bd. 4 (Ausgabe 1635); Exemplar der David Rumsey Map Collection über das Internet Archive und Wikimedia Commons."
+  },
+  {
+   "id": "hr539",
+   "titel": "Die Hinrichtung in Emden im Druck",
+   "side": "hanse",
+   "caption": "Hanserecesse I.4, S. 539: der Bericht der Hauptleute mit den 25 Vitalienbrüdern, die ein Häuptling auslieferte, und dem Satz ‚Wy wunnen se to Emede myd rechte unde leten en de hovede afhowen‘ (Emden 1400 Kampf [2], [3]).",
+   "source": "Hanserecesse, 1. Abt., Bd. 4, hg. von Karl Koppmann (Leipzig 1877), S. 539; Internet Archive (hanserecesse12roppgoog)."
+  },
+  {
+   "id": "hr552",
+   "titel": "Johan Stortebeker im Druck",
+   "side": "vitalien",
+   "caption": "Hanserecesse I.4, S. 552: der Vertrag Herzog Albrechts von Holland vom 15. August 1400 mit ‚Herman Haweupe, Johan Stortebeker, Hinrich Corte‘ und anderen für 114 Vitalienbrüder, darunter der Anfang seines Geleitbriefs vom November (Holland 1400 Vertrag [1]).",
+   "source": "Hanserecesse, 1. Abt., Bd. 4, hg. von Karl Koppmann (Leipzig 1877), S. 552; Internet Archive (hanserecesse12roppgoog)."
+  },
+  {
+   "id": "flugblatt1701",
+   "titel": "Störtebeker und Gödeke Micheel, 1701",
+   "side": "rezeption",
+   "caption": "Ein Hamburger Flugblatt zum dreihundertsten Jahrestag: ‚Die hingerichtete See-Räuber Störtebek und Gödeke Micheel‘, mit den Köpfen der Hingerichteten. Dreihundert Jahre nach den Rechnungsposten für Büttel und Grube ist aus den Vitalienbrüdern ein Bild geworden; die Jahreszahl folgt den Chroniken (Helgoland Chronik [2]).",
+   "source": "Flugblatt, gedruckt bei Nicolaus Sauer, Hamburg 1701; Staatsarchiv Hamburg, 720-1_241-07 = 1402.11; über Wikimedia Commons."
+  },
+  {
+   "id": "kr2s1",
+   "titel": "Dreiundsiebzig Gräber im Druck",
+   "side": "hanse",
+   "caption": "Kämmereirechnungen der Stadt Hamburg, Bd. 2, S. 1: die Ausgaben von 1401 mit den Posten ‚3 ℔ Knokere ad sepeliendum 73 personas Vitalienses‘ und ‚5 ℔ bedello de Buxtehude ad decollandum Vitalienses‘ (Helgoland Rechnung [3]).",
+   "source": "Kämmereirechnungen der Stadt Hamburg, hg. von Karl Koppmann, Bd. 2 (Hamburg 1873), S. 1; Internet Archive (bub_gb_lxwMAQAAMAAJ), digitalisiert von Google."
+  },
+  {
+   "id": "rufus25",
+   "titel": "Rufus über Helgoland",
+   "side": "rezeption",
+   "caption": "Die Chroniken der deutschen Städte 28, S. 25: § 1150 der Rufus-Chronik mit dem Kampf bei Helgoland und den Hauptleuten ‚Wichman und Clawes Stortebeker‘; darunter Koppmanns Anmerkung mit den Posten der Kämmereirechnung (Helgoland Chronik [1]).",
+   "source": "Die Chroniken der deutschen Städte 28 (Lübeck 3, Leipzig 1902), S. 25; Internet Archive (bub_gb__KgKAAAAIAAJ), digitalisiert von Google."
   },
   {
    "id": "stoewer",

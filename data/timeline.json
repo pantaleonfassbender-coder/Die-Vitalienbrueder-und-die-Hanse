@@ -136,7 +136,8 @@
    "titel": "Ein Vertrag mit Störtebeker",
    "text": "Herzog Albrecht von Holland nimmt 114 Vitalienbrüder in seine Freundschaft, unter ihren Wortführern ‚Johan Stortebeker‘, und erlaubt ihnen, seine Feinde zu berauben: Friesen, Groninger und Hamburger.",
    "cite": "#/text/holland/vertrag/1",
-   "citeLabel": "Holland 1400 Vertrag [1]"
+   "citeLabel": "Holland 1400 Vertrag [1]",
+   "plate": "hr552"
   },
   {
    "d": "11. November 1400",
@@ -151,13 +152,19 @@
    "d": "1400",
    "side": "hanse",
    "titel": "Dreißig Enthauptungen",
-   "text": "Hamburg bezahlt den Henker für die Enthauptung von dreißig Vitalienbrüdern und lässt ein Grab ausheben. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Hamburg zahlt dem Büttel 12 Pfund, um dreißig Vitalienbrüder zu enthaupten, und dem Knoker ein Pfund für ihre Grube. Im selben Rechnungsjahr kämpfen Hamburger Schiffe bei Helgoland; abgerechnet wird die Fahrt erst 1401, ‚de anno preterito‘.",
+   "cite": "#/text/helgoland/rechnung/2",
+   "citeLabel": "Helgoland Rechnung [2]",
+   "plate": "kr2s1"
   },
   {
    "d": "1401",
-   "side": "hanse",
+   "side": "rezeption",
    "titel": "Helgoland",
-   "text": "Hamburger Schiffe stellen die Vitalienbrüder bei Helgoland; dreiundsiebzig werden in Hamburg begraben. Die Chroniken nennen Klaus Störtebeker und Godeke Michels. (Nach modernen Darstellungen; Modul geplant.)"
+   "text": "Die Kämmerei zahlt für das Begräbnis von 73 Vitalienbrüdern und holt den Henker aus Buxtehude. Die Chroniken nennen Wichman und Klaus Störtebeker, die Lübecker Rufus-Chronik setzt ihre Köpfe an der Elbe auf eine Wiese; Jahr, Zahl und Namen schwanken zwischen 1401 und 1403.",
+   "cite": "#/text/helgoland/rechnung/3",
+   "citeLabel": "Helgoland Rechnung [3]",
+   "plate": "flugblatt1701"
   }
  ]
 }
